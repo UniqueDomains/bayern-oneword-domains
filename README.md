@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BAYERN one-word domains still available to buy.
 
-This dataset contains 4,517 .BAYERN one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,560 .BAYERN one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BAYERN one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bayern-oneword-domains&utm_content=description.top) (4,237) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.BAYERN one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/bayern-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/bayern-oneword-domains/blob/main/bayern.csv"><b>⬇️ CSV (4.52K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/bayern-oneword-domains/blob/main/bayern.json"><b>⬇️ JSON (4.52K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/bayern-oneword-domains/blob/main/bayern.csv"><b>⬇️ CSV (4.56K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/bayern-oneword-domains/blob/main/bayern.json"><b>⬇️ JSON (4.56K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bayern-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.24K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.bayern  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.bayern      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.bayern  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.bayern    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.bayern     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.bayern   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.bayern     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.bayern    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.bayern   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.bayern  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.bayern  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.bayern | available | 56       | 1%     | 10     |           |         |         |
-| abducens.bayern   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.bayern   | premium   | 68       | 1%     | 8      |           |         |         |
-| abducting.bayern  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.bayern    | premium   | 82       | 3%     | 7      |           |         |         |
-| aberdonian.bayern | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.bayern   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.bayern    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.bayern  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.bayern    | available | 106      | 5%     | 7      |           |         |         |
-| abient.bayern     | available | 54       | 1%     | 6      |           |         |         |
-| abit.bayern       | available | 66       | 16%    | 5      |           |         |         |
-| abject.bayern     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.bayern     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.bayern  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.bayern     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.bayern  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.bayern    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.bayern   | available | 68       | 3%     | 8      |           |         |         |
+| Domain            | Status    | Attract. | Demand | Length | Registrar | Created          | Expires          |
+| ----------------- | --------- | -------- | ------ | ------ | --------- | ---------------- | ---------------- |
+| aaa.bayern        | available | 70       | 38%    | 3      |           |                  |                  |
+| aaron.bayern      | available | 88       | 32%    | 5      |           |                  |                  |
+| abactinal.bayern  | available | 50       | 1%     | 9      |           |                  |                  |
+| abaft.bayern      | available | 43       | 2%     | 5      |           |                  |                  |
+| abandoned.bayern  | available | 58       | 10%    | 9      |           |                  |                  |
+| abashed.bayern    | available | 60       | 2%     | 7      |           |                  |                  |
+| abasic.bayern     | available | 54       | 2%     | 6      |           |                  |                  |
+| abatable.bayern   | available | 54       | 1%     | 8      |           |                  |                  |
+| abatic.bayern     | available | 54       | 2%     | 6      |           |                  |                  |
+| abaxial.bayern    | available | 54       | 2%     | 7      |           |                  |                  |
+| abbatial.bayern   | available | 50       | 1%     | 8      |           |                  |                  |
+| abc.bayern        | resell    | 102      | 41%    | 3      | INWX GmbH | 12/10/2020 08:42 | 12/10/2025 08:42 |
+| abdicable.bayern  | available | 50       | 1%     | 9      |           |                  |                  |
+| abdominal.bayern  | available | 82       | 1%     | 9      |           |                  |                  |
+| abdominous.bayern | available | 56       | 1%     | 10     |           |                  |                  |
+| abducens.bayern   | available | 54       | 1%     | 8      |           |                  |                  |
+| abducent.bayern   | premium   | 68       | 1%     | 8      |           |                  |                  |
+| abducting.bayern  | available | 50       | 1%     | 9      |           |                  |                  |
+| abenaki.bayern    | premium   | 82       | 3%     | 7      |           |                  |                  |
+| aberdonian.bayern | available | 68       | 1%     | 10     |           |                  |                  |
+| aberrant.bayern   | available | 74       | 7%     | 8      |           |                  |                  |
+| abeyant.bayern    | available | 56       | 2%     | 7      |           |                  |                  |
+| abhorrent.bayern  | available | 54       | 1%     | 9      |           |                  |                  |
+| abiding.bayern    | available | 106      | 5%     | 7      |           |                  |                  |
+| abient.bayern     | available | 54       | 1%     | 6      |           |                  |                  |
+| ability.bayern    | available | 92       | 18%    | 7      |           |                  |                  |
+| abit.bayern       | available | 66       | 16%    | 5      |           |                  |                  |
+| abject.bayern     | available | 94       | 8%     | 6      |           |                  |                  |
+| abkhas.bayern     | available | 68       | 1%     | 6      |           |                  |                  |
+| abkhasian.bayern  | available | 78       | 1%     | 9      |           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/bayern-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/bayern-oneword-domains/blob/main/bayern.csv"><b>⬇️ CSV (4.52K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/bayern-oneword-domains/blob/main/bayern.json"><b>⬇️ JSON (4.52K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/bayern-oneword-domains/blob/main/bayern.csv"><b>⬇️ CSV (4.56K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/bayern-oneword-domains/blob/main/bayern.json"><b>⬇️ JSON (4.56K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bayern-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.24K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
