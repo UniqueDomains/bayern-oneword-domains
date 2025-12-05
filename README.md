@@ -21,11 +21,11 @@ If you want to search & filters the complete database of [.BAYERN one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created          | Expires          |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ---------------- | ---------------- |
-| aaa.bayern        | available | 70       | 38%    | 3      |           |                  |                  |
+| aaa.bayern        | premium   | 70       | 38%    | 3      |           |                  |                  |
 | aaron.bayern      | available | 88       | 32%    | 5      |           |                  |                  |
 | abactinal.bayern  | available | 50       | 1%     | 9      |           |                  |                  |
 | abaft.bayern      | available | 43       | 2%     | 5      |           |                  |                  |
-| abandoned.bayern  | available | 58       | 10%    | 9      |           |                  |                  |
+| abandoned.bayern  | available | 58       | 7%     | 9      |           |                  |                  |
 | abashed.bayern    | available | 60       | 2%     | 7      |           |                  |                  |
 | abasic.bayern     | available | 54       | 2%     | 6      |           |                  |                  |
 | abatable.bayern   | available | 54       | 1%     | 8      |           |                  |                  |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.BAYERN one word domai
 | abbatial.bayern   | available | 50       | 1%     | 8      |           |                  |                  |
 | abc.bayern        | resell    | 102      | 41%    | 3      | INWX GmbH | 12/10/2020 08:42 | 12/10/2025 08:42 |
 | abdicable.bayern  | available | 50       | 1%     | 9      |           |                  |                  |
-| abdominal.bayern  | available | 82       | 1%     | 9      |           |                  |                  |
+| abdominal.bayern  | available | 82       | 5%     | 9      |           |                  |                  |
 | abdominous.bayern | available | 56       | 1%     | 10     |           |                  |                  |
 | abducens.bayern   | available | 54       | 1%     | 8      |           |                  |                  |
 | abducent.bayern   | premium   | 68       | 1%     | 8      |           |                  |                  |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.BAYERN one word domai
 | aberdonian.bayern | available | 68       | 1%     | 10     |           |                  |                  |
 | aberrant.bayern   | available | 74       | 7%     | 8      |           |                  |                  |
 | abeyant.bayern    | available | 56       | 2%     | 7      |           |                  |                  |
-| abhorrent.bayern  | available | 54       | 1%     | 9      |           |                  |                  |
+| abhorrent.bayern  | available | 54       | 3%     | 9      |           |                  |                  |
 | abiding.bayern    | available | 106      | 5%     | 7      |           |                  |                  |
 | abient.bayern     | available | 54       | 1%     | 6      |           |                  |                  |
 | ability.bayern    | available | 92       | 18%    | 7      |           |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BAYERN one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
