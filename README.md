@@ -82,7 +82,7 @@ print(df.head())
 | good.bayern       | available | $47.99    | $50.99        | 82             | 55     | 4      | name.com                                 |
 | Mario.bayern      | resell    | —         | —             | 90             | 31     | 5      | PSI-USA, Inc. dba Domain Robot           |
 | star.bayern       | premium   | $291.93   | $50.99        | 86             | 44     | 4      | name.com                                 |
-| zero.bayern       | available | $47.99    | $50.99        | 112            | 54     | 4      | name.com                                 |
+| alpha.bayern      | available | $47.99    | $50.99        | 90             | 54     | 5      | name.com                                 |
 | ranking.bayern    | resell    | —         | —             | 94             | 22     | 7      | Vautron Rechenzentrum AG                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
