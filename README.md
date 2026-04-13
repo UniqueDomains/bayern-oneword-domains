@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bayern one-word domains from Uniq
 
 **Public extract:** 9,613 rows · **Live catalog:** 9,613 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/bayern`  
 **Best for:** founders, investors, studios
 
@@ -81,8 +81,8 @@ print(df.head())
 | all.bayern        | premium   | $58.36    | $50.99        | 88             | 48     | 3      | name.com                                 |
 | good.bayern       | available | $47.99    | $50.99        | 82             | 55     | 4      | name.com                                 |
 | Mario.bayern      | resell    | —         | —             | 90             | 31     | 5      | PSI-USA, Inc. dba Domain Robot           |
-| star.bayern       | premium   | $291.93   | $50.99        | 86             | 44     | 4      | name.com                                 |
-| alpha.bayern      | available | $47.99    | $50.99        | 90             | 54     | 5      | name.com                                 |
+| mix.bayern        | premium   | $116.69   | $50.99        | 66             | 45     | 3      | name.com                                 |
+| zero.bayern       | available | $47.99    | $50.99        | 112            | 53     | 4      | name.com                                 |
 | ranking.bayern    | resell    | —         | —             | 94             | 22     | 7      | Vautron Rechenzentrum AG                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
