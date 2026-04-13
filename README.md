@@ -76,7 +76,7 @@ print(df.head())
 | seventeen.bayern  | available | $47.99    | $50.99        | 84             | 62     | 9      | name.com                                 |
 | football.bayern   | resell    | —         | —             | 100            | 36     | 8      | Hosting Concepts B.V. d/b/a Registrar.eu |
 | design.bayern     | premium   | $1,166.89 | $291.72       | 108            | 50     | 6      | name.com                                 |
-| free.bayern       | available | $47.99    | $50.99        | 88             | 59     | 4      | name.com                                 |
+| free.bayern       | available | $47.99    | $50.99        | 88             | 57     | 4      | name.com                                 |
 | trip.bayern       | resell    | —         | —             | 110            | 35     | 4      | Key-Systems, LLC                         |
 | all.bayern        | premium   | $58.36    | $50.99        | 88             | 48     | 3      | name.com                                 |
 | good.bayern       | available | $47.99    | $50.99        | 82             | 55     | 4      | name.com                                 |
