@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bayern one-word domains from Uniq
 
 **Public extract:** 9,613 rows · **Live catalog:** 9,613 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/bayern`  
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | one.bayern        | premium   | $291.96   | $50.99        | 132            | 50     | 3      | name.com                                 |
 | seventeen.bayern  | available | $47.99    | $50.99        | 84             | 62     | 9      | name.com                                 |
 | football.bayern   | resell    | —         | —             | 100            | 36     | 8      | Hosting Concepts B.V. d/b/a Registrar.eu |
-| design.bayern     | premium   | $1,166.89 | $291.72       | 108            | 50     | 6      | name.com                                 |
+| design.bayern     | premium   | $1,166.89 | $291.72       | 108            | 49     | 6      | name.com                                 |
 | free.bayern       | available | $47.99    | $50.99        | 88             | 57     | 4      | name.com                                 |
 | trip.bayern       | resell    | —         | —             | 110            | 35     | 4      | Key-Systems, LLC                         |
 | all.bayern        | premium   | $58.36    | $50.99        | 88             | 48     | 3      | name.com                                 |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
