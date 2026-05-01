@@ -1,10 +1,10 @@
-# Available .BAYERN One-Word Domains (12,380)
+# Available .BAYERN One-Word Domains (12,588)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C380%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C588%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bayern one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,380 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,588 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,380 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,588 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/bayern`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| donuts.bayern     | available | $47.99    | —             | 54             | 62     | 6      | name.com  |
-| events.bayern     | premium   | $2,922.63 | —             | 68             | 37     | 6      | name.com  |
-| regions.bayern    | available | $47.99    | —             | 64             | 59     | 7      | name.com  |
-| shops.bayern      | premium   | $293.05   | —             | 64             | 24     | 5      | name.com  |
-| robots.bayern     | available | $34.99    | $34.99        | 62             | 47     | 6      | namesilo  |
-| motorsport.bayern | premium   | $117.23   | —             | 74             | 23     | 10     | name.com  |
-| coins.bayern      | available | $47.99    | —             | 56             | 41     | 5      | name.com  |
-| CocaCola.bayern   | premium   | —         | —             | 92             | 82     | 9      | —         |
-| shortcuts.bayern  | available | $47.99    | —             | 48             | 41     | 10     | name.com  |
-| RedSox.bayern     | premium   | —         | —             | 72             | 60     | 7      | —         |
-| matcha.bayern     | available | $47.99    | —             | 86             | 39     | 6      | name.com  |
-| WiFi.bayern       | premium   | —         | —             | 83             | 37     | 5      | —         |
-| lets.bayern       | available | $47.99    | —             | 77             | 39     | 4      | name.com  |
-| Cats.bayern       | premium   | —         | —             | 59             | 33     | 4      | —         |
-| justin.bayern     | available | $47.99    | —             | 58             | 38     | 7      | name.com  |
-| Jim.bayern        | premium   | —         | —             | 78             | 28     | 3      | —         |
-| stories.bayern    | available | $47.99    | —             | 58             | 36     | 7      | name.com  |
-| KFC.bayern        | premium   | —         | —             | 74             | 27     | 3      | —         |
-| spectra.bayern    | available | $47.99    | —             | 62             | 34     | 7      | name.com  |
-| Allie.bayern      | premium   | —         | —             | 72             | 21     | 5      | —         |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| donuts.bayern      | available | $47.99    | —             | 54             | 62     | 6      | name.com  |
+| events.bayern      | premium   | $2,922.63 | —             | 68             | 37     | 6      | name.com  |
+| regions.bayern     | available | $47.99    | —             | 64             | 59     | 7      | name.com  |
+| motorsport.bayern  | premium   | $117.23   | —             | 74             | 23     | 10     | name.com  |
+| robots.bayern      | available | $34.99    | $34.99        | 62             | 47     | 6      | namesilo  |
+| CocaCola.bayern    | premium   | —         | —             | 92             | 82     | 9      | —         |
+| coins.bayern       | available | $47.99    | —             | 56             | 41     | 5      | name.com  |
+| RedSox.bayern      | premium   | —         | —             | 72             | 60     | 7      | —         |
+| matcha.bayern      | available | $47.99    | —             | 86             | 39     | 6      | name.com  |
+| WiFi.bayern        | premium   | —         | —             | 83             | 37     | 5      | —         |
+| lets.bayern        | available | $47.99    | —             | 77             | 39     | 4      | name.com  |
+| Cats.bayern        | premium   | —         | —             | 59             | 33     | 4      | —         |
+| justin.bayern      | available | $47.99    | —             | 58             | 38     | 7      | name.com  |
+| Jim.bayern         | premium   | —         | —             | 78             | 28     | 3      | —         |
+| stories.bayern     | available | $47.99    | —             | 58             | 36     | 7      | name.com  |
+| KFC.bayern         | premium   | —         | —             | 74             | 27     | 3      | —         |
+| spectra.bayern     | available | $47.99    | —             | 62             | 34     | 7      | name.com  |
+| Allie.bayern       | premium   | —         | —             | 72             | 21     | 5      | —         |
+| slots.bayern       | available | $34.99    | $34.99        | 49             | 31     | 5      | namesilo  |
+| HarryPotter.bayern | premium   | —         | —             | 72             | 20     | 12     | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,380 live domains                              |
+| 1,000-row public sample | 12,588 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
