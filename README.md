@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .bayern one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,587 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,587 domains · **Median ask:** $44.98 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,587 domains · **Median ask:** $43.92 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/bayern`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/bayern`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BAYERN one-word domai
 
 ### Files
 
-- `bayern.csv` — public CSV extract (1,000 rows)
-- `bayern.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `bayern.csv`, public CSV extract (1,000 rows)
+- `bayern.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| jetpack.bayern  | available | $34.99    | $34.99        | 96             | 75     | 8      | namesilo          |
-| division.bayern | resell    | —         | —             | 66             | 17     | 8      | united-domains AG |
-| own.bayern      | premium   | $58.35    | —             | 122            | 70     | 3      | name.com          |
-| audible.bayern  | available | $34.99    | $34.99        | 112            | 74     | 7      | namesilo          |
-| mini.bayern     | premium   | $291.86   | —             | 70             | 69     | 4      | name.com          |
-| Spotify.bayern  | available | $34.99    | $34.99        | 78             | 69     | 7      | namesilo          |
-| sex.bayern      | premium   | $2,943.62 | —             | 98             | 59     | 3      | name.com          |
-| solo.bayern     | available | $34.99    | $34.99        | 116            | 68     | 4      | namesilo          |
-| bot.bayern      | premium   | $58.49    | —             | 98             | 58     | 3      | name.com          |
-| Nutella.bayern  | available | $34.99    | $34.99        | 72             | 66     | 7      | namesilo          |
-| sky.bayern      | premium   | $293.21   | —             | 80             | 54     | 3      | name.com          |
-| sense.bayern    | available | $34.99    | $34.99        | 102            | 62     | 5      | namesilo          |
-| Iam.bayern      | premium   | $58.87    | —             | 100            | 49     | 4      | name.com          |
-| Crayola.bayern  | available | $34.99    | $34.99        | 80             | 61     | 7      | namesilo          |
-| new.bayern      | premium   | $117.18   | —             | 82             | 48     | 3      | name.com          |
-| better.bayern   | available | $34.99    | $34.99        | 110            | 56     | 6      | namesilo          |
-| our.bayern      | premium   | $58.68    | —             | —              | 48     | 3      | name.com          |
-| echo.bayern     | available | $34.99    | $34.99        | 68             | 56     | 4      | namesilo          |
-| ask.bayern      | premium   | $58.63    | —             | 80             | 45     | 3      | name.com          |
-| zero.bayern     | available | $47.99    | $50.99        | 112            | 53     | 4      | name.com          |
+| achy.bayern     | available | $34.99    | $34.99        | low            | low    | 4      | namesilo          |
+| division.bayern | resell    | —         | —             | medium         | low    | 8      | united-domains AG |
+| act.bayern      | premium   | $58.63    | —             | high           | low    | 3      | name.com          |
+| acre.bayern     | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo          |
+| add.bayern      | premium   | $58.63    | —             | high           | low    | 3      | name.com          |
+| aged.bayern     | available | $47.99    | $50.99        | high           | low    | 4      | name.com          |
+| are.bayern      | premium   | $58.64    | —             | high           | low    | 3      | name.com          |
+| agog.bayern     | available | $47.99    | $50.99        | medium         | low    | 4      | name.com          |
+| ask.bayern      | premium   | $58.63    | —             | high           | medium | 3      | name.com          |
+| ahuh.bayern     | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
+| bar.bayern      | premium   | $292.63   | —             | high           | low    | 3      | name.com          |
+| alar.bayern     | available | $34.99    | $34.99        | low            | low    | 4      | namesilo          |
+| bid.bayern      | premium   | $58.54    | —             | high           | low    | 3      | name.com          |
+| alto.bayern     | available | $34.99    | $34.99        | low            | low    | 4      | namesilo          |
+| bot.bayern      | premium   | $58.49    | —             | high           | medium | 3      | name.com          |
+| arts.bayern     | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
+| con.bayern      | premium   | $58.69    | —             | high           | low    | 3      | name.com          |
+| asat.bayern     | available | $34.99    | $34.99        | low            | low    | 4      | namesilo          |
+| dew.bayern      | premium   | $58.60    | —             | medium         | low    | 3      | name.com          |
+| awry.bayern     | available | $34.99    | $34.99        | low            | low    | 4      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,587 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 23 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .bayern domains. The set ranges from short, broad words such as pal.bayern and white.bayern to longer, more specific terms like palliative.bayern and chocolatetruffle.bayern. That mix matters. Shorter names are usually easier to recall and say aloud, while longer words can be more exact but narrower in appeal. With a median ask of 48.05, price discipline still matters: compare each name against its clarity, spelling ease, and how naturally the word fits the regional identity of .bayern. For founders, the best picks are memorable and easy to explain. For investors, the better candidates are clean words with broader reuse potential.
+This selection covers 12,587 one-word domain names on the .bayern extension. Most carry an available status, with a median ask near $44 and the majority priced under $500. A smaller group of 434 premium-tier and 8 resale domains rounds out the set. Demand skews low overall, though a handful of names reach the top 15% demand tier, including examples like show.bayern and watch.bayern where ask price sits far below reference value.
 
-- Short words tend to be easier to remember and repeat
-- Specific words can fit a niche but narrow buyer demand
-- Check spelling clarity before paying even a low ask
-- Match the word to the regional meaning of .bayern
+- 12,587 one-word .bayern domains, 12,145 currently available
+- Median ask near $44; most list under $500
+- 434 premium-tier listings, 8 resale-status domains
+- 23 domains sit in the top 15% demand tier
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
