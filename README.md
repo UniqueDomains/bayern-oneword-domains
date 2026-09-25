@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bayern one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 33,126 domains · **Median ask:** $37.93 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/bayern`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| achy.bayern     | available | $34.99    | $34.99        | low            | low    | 4      | namesilo          |
-| trip.bayern     | resell    | —         | —             | medium         | low    | 4      | Key-Systems, LLC  |
+| water.bayern    | available | $34.99    | $34.99        | high           | medium | 5      | namesilo          |
+| trip.bayern     | resell    | —         | —             | high           | low    | 4      | Key-Systems, LLC  |
+| engine.bayern   | available | $34.99    | $34.99        | high           | low    | 6      | namesilo          |
+| eating.bayern   | available | $34.99    | $34.99        | high           | low    | 6      | namesilo          |
+| ache.bayern     | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
+| aaa.bayern      | premium   | $58.63    | —             | high           | medium | 3      | name.com          |
+| achy.bayern     | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo          |
+| division.bayern | resell    | —         | —             | high           | low    | 8      | united-domains AG |
 | act.bayern      | premium   | $58.63    | —             | high           | low    | 3      | name.com          |
-| acre.bayern     | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo          |
-| division.bayern | resell    | —         | —             | medium         | low    | 8      | united-domains AG |
+| acre.bayern     | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
 | add.bayern      | premium   | $58.63    | —             | high           | low    | 3      | name.com          |
-| aged.bayern     | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo          |
-| are.bayern      | premium   | $58.64    | —             | high           | low    | 3      | name.com          |
-| agog.bayern     | available | $47.99    | $50.99        | medium         | low    | 4      | name.com          |
-| ask.bayern      | premium   | $58.63    | —             | high           | medium | 3      | name.com          |
+| agog.bayern     | available | $47.99    | $50.99        | high           | low    | 4      | name.com          |
+| ape.bayern      | premium   | $57.77    | $50.99        | high           | low    | 3      | name.com          |
 | ahuh.bayern     | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
-| bar.bayern      | premium   | $292.63   | —             | high           | low    | 3      | name.com          |
-| alar.bayern     | available | $34.99    | $34.99        | low            | low    | 4      | namesilo          |
-| bid.bayern      | premium   | $58.54    | —             | high           | low    | 3      | name.com          |
-| alto.bayern     | available | $34.99    | $34.99        | low            | low    | 4      | namesilo          |
-| con.bayern      | premium   | $58.69    | —             | high           | low    | 3      | name.com          |
-| arts.bayern     | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo          |
-| dew.bayern      | premium   | $58.60    | —             | medium         | low    | 3      | name.com          |
-| asat.bayern     | available | $34.99    | $34.99        | low            | low    | 4      | namesilo          |
-| did.bayern      | premium   | $58.16    | —             | high           | low    | 3      | name.com          |
+| are.bayern      | premium   | $58.64    | —             | high           | low    | 3      | name.com          |
+| airy.bayern     | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
+| ask.bayern      | premium   | $58.63    | —             | high           | medium | 3      | name.com          |
+| alar.bayern     | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
+| aug.bayern      | premium   | $57.80    | $50.99        | high           | low    | 3      | name.com          |
+| alto.bayern     | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
