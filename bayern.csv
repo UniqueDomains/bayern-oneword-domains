@@ -11,11 +11,12 @@ e2b212d7-e4d0-42fa-aa92-22bee5d05dc1,developer.bayern,available,34.99,34.99,high
 461a8dad-9c44-4746-95aa-ad604e8678ad,previous.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 50d6b3c9-491b-44cc-8cc5-a9cfb30b1442,nettlesome.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
 54b8c53c-7bcf-4f66-aa75-9a3e8d4fd0ac,stood.bayern,available,34.99,34.99,medium,low,5,namesilo,,,
+f046c318-b554-45c7-b146-15c8aa8a8b81,clay.bayern,available,34.99,34.99,high,low,4,namesilo,,,25/09/2026 09:04
 03459cf0-58e6-4cab-9434-2f7c11271d5d,hill.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 5a5eba5d-a36c-4d7d-9423-7c0c4cac401b,tide.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 5552d8ca-4551-484d-9e42-bcd96bf6d920,increase.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 01ba84de-7c41-4d2b-95d8-4e838b70dc7e,city.bayern,available,34.99,34.99,high,medium,4,namesilo,,,
-1ac7751a-1b3f-470e-8a80-be883df88538,shaky.bayern,available,47.99,,high,low,5,name.com,,,
+1ac7751a-1b3f-470e-8a80-be883df88538,shaky.bayern,available,47.99,,medium,low,5,name.com,,,
 46c08b5a-a975-48d8-9de1-01d90c3af175,yeah.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 30fdea9e-43e4-46d8-9b3c-448d249b1a84,branch.bayern,available,47.99,,high,low,6,name.com,,,
 2922d7b0-95a4-4ffc-ac3e-7c2349900770,stat.bayern,available,34.99,34.99,high,low,4,namesilo,,,
@@ -25,17 +26,16 @@ c36cfb12-7c16-45d7-9024-c9c97a97f4a0,awestruck.bayern,available,34.99,34.99,high
 b8bf1785-b249-4d26-a0fa-2d6792ccdadd,terrifying.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
 0e62d32b-1bae-45de-b503-f447c52f1250,climate.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 2340a609-3923-4ae0-b9b9-b11db9adc4dd,lava.bayern,available,34.99,34.99,high,low,4,namesilo,,,
-309d5b3a-f9bd-427d-afa7-a8a37b7181d8,hannukah.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+309d5b3a-f9bd-427d-afa7-a8a37b7181d8,hannukah.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
 675d92b3-1342-478d-8c3b-049c339523e7,kilobyte.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 1902b1df-ee8a-44d8-acbd-da2228e72595,needle.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 7fb5d38a-f82f-4ab1-b5ca-58fa8127787f,jail.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 0bd86f06-c72c-4b29-b50e-67e98d06f094,aroused.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 991eafdc-f185-4042-96ae-391902f9f951,snapchat.bayern,available,47.99,,high,low,8,name.com,,,
 04034756-654e-4a6c-8e52-c71e52c82aa1,act.bayern,premium,58.63,,high,low,3,name.com,,,
-3c30f96f-accd-4a33-aed0-033d2c43e11f,mountain.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+3c30f96f-accd-4a33-aed0-033d2c43e11f,mountain.bayern,available,34.99,34.99,high,low,8,namesilo,,,25/09/2026 20:48
 61bdf7e7-b55f-43dc-8d38-712a7c5da55c,willingness.bayern,available,34.99,34.99,high,low,11,namesilo,,,
 ed376b95-9465-46d0-8bb6-ad2d46744e5d,praise.bayern,available,34.99,34.99,high,low,6,namesilo,,,
-519fa1d9-e685-438c-ba6d-f6952fab889b,informed.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 d8fa926a-9da1-4b11-95c5-7617b7f46d7a,swerve.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 e379c016-be62-4f7c-9ffc-4d58b649f6d2,agog.bayern,available,47.99,50.99,high,low,4,name.com,,,
 3aa7e722-bf17-4b3a-93a6-b3498d2136f2,portable.bayern,available,34.99,34.99,high,low,8,namesilo,,,
@@ -95,7 +95,7 @@ bb2c1f0d-83b1-41fc-8e9b-5444993e41ef,migrate.bayern,available,34.99,34.99,high,l
 4c4e0ae7-acf9-44df-8652-e5cc0d958824,successes.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
 b6084156-2ac6-41bd-b716-334a3d9d0c4a,teamwork.bayern,available,47.99,,high,low,8,name.com,,,
 3633f5de-119c-4494-9c9e-ca3699e72292,adoptable.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-6bb775c1-afb0-4e66-84fc-26a232d31c16,melancholy.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+6bb775c1-afb0-4e66-84fc-26a232d31c16,melancholy.bayern,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 19:05
 f45ec852-0fd7-4d47-afd5-f8f3d65772d6,jersey.bayern,available,,,high,low,6,,,,
 1284f65e-3aa0-4a47-b4e3-7b663ea1207a,write.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 cfa301d3-cf35-4371-bb9f-7872559168ab,allometric.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
@@ -104,21 +104,19 @@ c5681c0e-ce4a-428e-afe3-2a91d7d3999f,simplicity.bayern,available,34.99,34.99,hig
 0f82d0df-e2fe-426f-9c76-721db6c3bd21,apian.bayern,available,34.99,34.99,medium,low,5,namesilo,,,05/08/2026 23:47
 da3aa6c6-a419-488d-b592-c34689d237d0,sunset.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 ed8aef42-c79c-482a-9f72-3ef1ea4b1dbc,carefully.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-b30156f1-4c22-4095-a47c-2f977d4f35d6,somewhat.bayern,available,34.99,34.99,high,low,8,namesilo,,,
-5e1e1144-b303-430a-bda2-02d9e17548b1,master.bayern,premium,585.07,,high,low,6,name.com,,,
-307de954-6092-4a5b-842f-a084947b4741,consultive.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+b30156f1-4c22-4095-a47c-2f977d4f35d6,somewhat.bayern,available,34.99,34.99,high,low,8,namesilo,,,25/09/2026 12:06
+307de954-6092-4a5b-842f-a084947b4741,consultive.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
 9dc33b12-f416-4a75-9630-0bca771036a4,disguise.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 a51c93a8-86ae-4cec-acde-892d1991768c,peaceful.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 04dad801-0be0-4c49-b777-156ae248729a,amiss.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-82ca896d-1b2d-4dcf-9393-0799727d33c2,irrelevant.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+82ca896d-1b2d-4dcf-9393-0799727d33c2,irrelevant.bayern,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 11:28
 a75f3f8b-4f89-48ff-b143-b6b2478b5654,owing.bayern,available,34.99,34.99,medium,low,5,namesilo,,,
 3f85e1d6-ae03-4ed3-a518-68a77bfb3c25,tried.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 716ec135-0c27-445c-8201-0219bbf09398,hover.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 b3dd4abc-a55e-4cdb-b211-2cc0d69357e3,keep.bayern,available,47.99,,high,low,4,name.com,,,
 f52dcc7c-1764-48fc-8c58-829cd681edbb,standby.bayern,available,34.99,34.99,high,low,8,namesilo,,,10/09/2026 18:37
-d75a6f85-0746-4b28-abb2-e55635839957,reflection.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+d75a6f85-0746-4b28-abb2-e55635839957,reflection.bayern,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 22:24
 9cd95244-ba8e-4113-ac19-8f7fd5cd5f4b,actinoid.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
-e017cc12-fea7-46a5-80d3-8836b1748724,illegal.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 7fc4bf2a-ee80-41a3-a59f-bc880b58f0b6,lightweight.bayern,available,34.99,34.99,high,low,11,namesilo,,,
 ef7dd24f-5fcf-42d7-8633-fb260a34499f,oversee.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 59450143-ebb5-4f9b-aa4c-f3b4049af0f4,appear.bayern,available,34.99,34.99,high,low,6,namesilo,,,
@@ -136,7 +134,7 @@ c8f3d183-46b6-4488-99e2-abcd8af01214,respiratory.bayern,available,34.99,34.99,hi
 7b70fbf2-c1fe-4b9b-ac4b-64aa65f78eab,energizing.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 d1dc70aa-1507-4705-a0ee-93eda19d88bb,screenshot.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 1ab6dcc5-6353-4bbc-8f14-a09cd4d6f8a3,stops.bayern,available,47.99,,high,low,5,name.com,,,
-c46a0313-4d7c-49cf-901d-ecf5a938ee81,alar.bayern,available,34.99,34.99,high,low,4,namesilo,,,
+c46a0313-4d7c-49cf-901d-ecf5a938ee81,alar.bayern,available,34.99,34.99,medium,low,4,namesilo,,,
 b023b130-c08d-447a-9b3d-9e503276b8cd,goodenough.bayern,available,34.99,34.99,high,low,11,namesilo,,,
 1d8ba592-8cda-40ab-b351-2992c9668f1c,seated.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 efa51e51-2a40-4267-bb35-8e80f85de1ed,indisposed.bayern,available,47.99,50.99,medium,low,10,name.com,,,
@@ -154,7 +152,7 @@ f66b9040-fe60-44a3-9067-7336a86f382f,vanity.bayern,available,34.99,34.99,high,lo
 d650cf74-3097-4142-a98a-aaaea9d033d7,steak.bayern,available,47.99,,high,low,5,name.com,,,
 9592ad66-030e-4340-8aaf-bf670076275d,sex.bayern,premium,2943.62,,high,medium,3,name.com,,,
 4d7a4e0c-dd4b-49cf-a087-2cbe837d5571,spry.bayern,available,34.99,34.99,high,low,4,namesilo,,,
-5b701800-144f-433d-9536-c1c88c70268e,cxlv.bayern,available,34.99,34.99,high,low,4,namesilo,,,
+5b701800-144f-433d-9536-c1c88c70268e,cxlv.bayern,available,34.99,34.99,medium,low,4,namesilo,,,
 567f7669-199b-409c-98b6-8c3d3eb36ffa,acceptive.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 4fa8c1d9-b103-4d47-9b5e-3004177e3802,dwelling.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 48204b93-68bd-4703-84e9-8254fa4002b4,zesty.bayern,available,47.99,50.99,high,low,5,name.com,,,08/08/2026 20:02
@@ -166,17 +164,16 @@ b09d167f-4326-4cac-927c-9aaf5402db4b,bash.bayern,available,34.99,34.99,high,low,
 5b305ec6-f17b-402f-8ccb-236afbd8d65b,laborious.bayern,available,34.99,34.99,medium,low,9,namesilo,,,06/08/2026 17:00
 a7d91d5c-a72d-435f-8051-15d0e5de512e,flee.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 a5400dee-55b1-4cd5-b2a7-2ef9553470f5,penny.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-908ef60e-b372-4a47-af66-f45adf269361,matte.bayern,available,34.99,34.99,high,low,5,namesilo,,,
+908ef60e-b372-4a47-af66-f45adf269361,matte.bayern,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 17:39
 0137fef2-2e1e-4fff-bdcb-ef4e520f5936,moon.bayern,available,34.99,34.99,high,medium,4,namesilo,,,
 349f4889-b0d1-4355-b6fb-8f6be7c3760b,generally.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 1a8d3500-3cff-48ac-b469-e6be93aa1791,answer.bayern,available,47.99,,high,low,6,name.com,,,
 206b5a4d-3494-4efc-a3f8-e1a9c29c018a,alimental.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
 91a3bcec-a0f6-4332-a8ad-c3935bfb8bb3,issue.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 aa812097-721f-4254-9b83-a03758d25d69,citizen.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-6fb899f6-b381-405c-8e64-649922b583e4,lowercase.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-76231fda-1128-4f53-9342-ac37d2d11827,artist.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+6fb899f6-b381-405c-8e64-649922b583e4,lowercase.bayern,available,34.99,34.99,high,low,9,namesilo,,,25/09/2026 15:23
 f0e571bb-5d98-402e-baa4-ce818bb54ec2,barreled.bayern,available,34.99,34.99,medium,low,8,namesilo,,,08/08/2026 20:46
-c78275d1-e888-42b0-baf2-4ad859be2b8b,more.bayern,available,34.99,34.99,high,medium,4,namesilo,,,
+c78275d1-e888-42b0-baf2-4ad859be2b8b,more.bayern,available,34.99,34.99,high,medium,4,namesilo,,,25/09/2026 21:46
 9a8003df-cb30-428d-a0d5-a8f7311aac0b,unexpected.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 bd4c328c-684e-40c1-a9d2-f1c8783a790d,said.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 fb8e24ef-8b87-42df-9831-d4111c389c22,arouse.bayern,available,34.99,34.99,high,low,6,namesilo,,,07/08/2026 23:59
@@ -191,10 +188,10 @@ aaa134f1-c049-4304-b969-08bd1a4be83b,provisions.bayern,available,34.99,34.99,hig
 e1c73b25-e2d0-45c5-9233-86e56ee5188e,too.bayern,premium,58.76,,high,low,3,name.com,,,
 40ec246b-e9ee-45f1-9d6d-cde97d842e6a,departure.bayern,available,34.99,34.99,high,low,9,namesilo,,,08/09/2026 12:08
 7ba1e82c-8c2f-4a31-9a5f-f0290832764d,phone.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-da2d412f-c3bf-460b-8053-d5839b858e7e,northern.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+da2d412f-c3bf-460b-8053-d5839b858e7e,northern.bayern,available,34.99,34.99,high,low,8,namesilo,,,25/09/2026 23:11
 4d51e7d0-f27d-4118-8efe-76a92171bc6d,baffled.bayern,available,34.99,34.99,medium,low,7,namesilo,,,07/08/2026 11:36
 21ede0cf-890f-480c-a18b-fc6041bfe623,drawing.bayern,available,47.99,,high,low,7,name.com,,,
-ddeae57e-c978-457b-a71c-737ebcf9c442,alate.bayern,available,34.99,34.99,high,low,5,namesilo,,,
+ddeae57e-c978-457b-a71c-737ebcf9c442,alate.bayern,available,34.99,34.99,medium,low,5,namesilo,,,
 3040e431-0b5b-429b-b064-f7aa7242868b,agrestic.bayern,available,47.99,50.99,medium,low,8,name.com,,,
 5e623bf8-8c9e-4990-ba0b-7cf30392b223,artwork.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 2c257cfa-c416-4e7c-868e-78b947567aed,chairwoman.bayern,available,34.99,34.99,high,low,10,namesilo,,,
@@ -215,10 +212,10 @@ bed97f5d-5ea7-4aba-886b-0e74ec7fbe04,wool.bayern,available,34.99,34.99,high,low,
 734b3b22-f53d-453a-952e-e666cd20a1f8,scorched.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
 0417fd88-9ec1-4fab-baaf-f141c78ae76c,beatific.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 256f7ddf-8870-43c4-9e8f-db1c5990dbdb,customise.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-89d26033-c72f-4ab1-8bd2-713bb03efe25,outlander.bayern,available,34.99,34.99,high,low,9,namesilo,,,
+89d26033-c72f-4ab1-8bd2-713bb03efe25,outlander.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
 060fd0f4-2035-4287-89a4-6e834cbe5a07,victoria.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 5c168fe0-5360-4caf-8bd7-3a1222432ffd,abysmal.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
-500dea93-cad8-4bde-aabc-0ebd77e57ceb,starred.bayern,available,34.99,34.99,high,low,7,namesilo,,,07/08/2026 08:52
+500dea93-cad8-4bde-aabc-0ebd77e57ceb,starred.bayern,available,34.99,34.99,medium,low,7,namesilo,,,07/08/2026 08:52
 9b44330f-78c5-4932-b5d7-95cc14debe77,carsick.bayern,available,47.99,50.99,medium,low,7,name.com,,,
 bd2cba1d-4e6f-483b-8999-52a550464307,acknowledged.bayern,available,47.99,,high,low,12,name.com,,,
 e3376292-bdb8-470f-9bde-2a55ab218577,nebraska.bayern,available,34.99,34.99,high,low,8,namesilo,,,
@@ -229,7 +226,6 @@ b7200cb6-ca0e-486d-aef4-bf86bf743dcb,accentual.bayern,available,34.99,34.99,medi
 a46210b5-6f39-4638-acf4-d5b369930f64,bareback.bayern,available,34.99,34.99,medium,low,8,namesilo,,,08/08/2026 18:38
 2082776c-9340-4e06-9c90-a1bf5048d482,quarters.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 10fc697a-c71e-4c7b-a5d9-29c5c3f5de88,abreast.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-44238ce4-0c65-4827-b671-9dffc9165ec1,indecent.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 5edc777a-9916-44c3-b556-e541ecf32482,airplane.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 1eac675e-0d1a-40e4-bfac-75f417779c3c,malaria.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 20bcf5e3-8e2e-48e0-921e-0cf69dbc8c55,river.bayern,available,34.99,34.99,high,low,5,namesilo,,,
@@ -239,7 +235,7 @@ dfa7bd9b-a192-4792-843a-f805598cac1e,are.bayern,premium,58.64,,high,low,3,name.c
 5b8e4ea9-6eae-4600-bf39-ff576bca8beb,traveller.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 0070b84d-b4d4-4bef-a4b4-db0a9c9311ac,dewy.bayern,available,34.99,34.99,medium,low,4,namesilo,,,09/08/2026 06:51
 54b95be6-6ac9-4c8a-ae78-992c18156c48,merger.bayern,available,34.99,34.99,high,low,6,namesilo,,,
-f56874d6-9d81-4197-8169-bde77b1fdf13,xxxiii.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+f56874d6-9d81-4197-8169-bde77b1fdf13,xxxiii.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 abe60f23-38e5-4d19-bc0d-998545c46673,pubmed.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 259a4890-6a50-4723-9738-1e26f2e3157f,released.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
 16954d81-d353-40bc-8236-5ed3f83f89ff,pan.bayern,premium,58.53,,high,low,3,name.com,,,
@@ -251,12 +247,12 @@ c9084d87-4006-4ee2-9aec-af8581ce411b,thief.bayern,available,47.99,,high,low,5,na
 7e3208d2-eb76-4c92-bb70-54d01937cf3e,buck.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 8e90be94-609e-4252-adb9-7344d0a1a547,agamic.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 2db60f9c-313b-45aa-9daa-dce3976f9139,liam.bayern,available,34.99,34.99,high,low,4,namesilo,,,
-49b27c10-296e-48df-93f7-887e15b769bc,justified.bayern,available,34.99,34.99,high,low,9,namesilo,,,
+49b27c10-296e-48df-93f7-887e15b769bc,justified.bayern,available,34.99,34.99,high,low,9,namesilo,,,25/09/2026 12:26
 7ad3063c-eae2-40e2-b605-9333f9b60898,athenian.bayern,available,34.99,34.99,medium,low,8,namesilo,,,07/08/2026 13:08
 303da450-5541-441d-94da-b0c651345fa7,roasted.bayern,available,47.99,,high,low,7,name.com,,,
 6009e58c-e38c-4667-ab42-b68dea2ca7eb,him.bayern,premium,58.94,,high,low,3,name.com,,,
 971c98dd-1b0a-4cff-b9c9-f14502a15c38,badness.bayern,available,34.99,34.99,medium,low,7,namesilo,,,08/08/2026 07:23
-c31d7e3f-4dc0-439a-931a-83cb500ad1b2,fail.bayern,available,34.99,34.99,high,low,4,namesilo,,,
+c31d7e3f-4dc0-439a-931a-83cb500ad1b2,fail.bayern,available,34.99,34.99,medium,low,4,namesilo,,,
 711f3d9e-57c6-46a6-88f3-62b8cbd43cd1,industrialize.bayern,available,34.99,34.99,medium,low,13,namesilo,,,
 71d8422b-8a7e-4cbc-9dee-ee79ebd8bd15,peacock.bayern,available,,,high,low,7,,,,
 2938ff76-6d06-4358-abaa-0a374470695e,disciple.bayern,available,34.99,34.99,high,low,8,namesilo,,,
@@ -298,23 +294,21 @@ baf38ed4-d0d7-4a8c-8fa6-57c32c6b15b1,ounce.bayern,available,47.99,,high,low,5,na
 791812ad-0435-4fba-ac94-03a6edf6e998,acquired.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 b24dd722-b46d-4c09-8b3e-7d56ace5a2bb,swing.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 5743094d-d20d-42a8-b05c-aedfd47d6a2b,prosecution.bayern,available,47.99,,high,low,11,name.com,,,
-d4e7c968-1327-4d6e-9d05-02330737b71b,motor.bayern,premium,116.67,,high,low,5,name.com,,,
 8ae7238e-7cb7-4b22-85e0-bdb4b2b2d08c,thirty.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 170ca359-72a2-4987-a7f6-8e1d1384b453,endurable.bayern,available,34.99,34.99,medium,low,9,namesilo,,,09/08/2026 04:33
 fce4a7dc-8579-4d43-98f2-dd691eed554c,posterior.bayern,available,34.99,34.99,medium,low,9,namesilo,,,09/08/2026 11:12
-ffb0b308-630a-4b50-a3b1-00c87e38b6c0,analgesic.bayern,available,34.99,34.99,high,low,9,namesilo,,,
+ffb0b308-630a-4b50-a3b1-00c87e38b6c0,analgesic.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
 eeac9fbe-d726-4238-96d6-31b1218fa5e6,doubling.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 a05e905b-e935-4a3d-a7cd-ef35bfc03c90,did.bayern,premium,58.16,,high,low,3,name.com,,,
 f3209f22-4434-4345-a365-30de50d0d61d,reebok.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 5044b939-77f5-41b6-8a10-e0a8fa68c19c,con.bayern,premium,58.69,,high,low,3,name.com,,,
-7500d26a-7147-420f-97cd-6f29963f6e53,intense.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 50d7a88d-632d-4203-ade0-a0c31f320668,their.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 622a2f2d-daac-42a4-9906-a6b7dfa5400b,facilitate.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 fc07da89-9a3e-4a7e-adb0-68344cc8a0a6,barefaced.bayern,available,34.99,34.99,medium,low,9,namesilo,,,08/08/2026 09:20
-43fcb251-195b-4afb-b345-a35ea57c35ce,producing.bayern,available,34.99,34.99,high,low,9,namesilo,,,
+43fcb251-195b-4afb-b345-a35ea57c35ce,producing.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
 12960552-8e86-4cdd-b754-8dd109a9f0df,underestimate.bayern,available,34.99,34.99,high,low,13,namesilo,,,
 0a5dcad6-380f-44e4-a399-f15bd3e2068b,gratitude.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-0ebe6b3a-2d17-40d3-a057-b36ba8599790,lowered.bayern,available,34.99,34.99,high,low,7,namesilo,,,
+0ebe6b3a-2d17-40d3-a057-b36ba8599790,lowered.bayern,available,34.99,34.99,high,low,7,namesilo,,,25/09/2026 15:26
 9c15d458-8c62-484a-abd3-0420260664d3,charles.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 f22c6c0c-34c6-48fa-af15-5172778a82c3,unfounded.bayern,available,34.99,34.99,medium,low,9,namesilo,,,08/08/2026 21:57
 2e717eb8-633a-4796-9237-1708b0f1ff59,asking.bayern,available,34.99,34.99,high,low,6,namesilo,,,
@@ -334,37 +328,35 @@ abf765e3-bb58-46bd-8afe-6fe9f2ba11c7,solo.bayern,available,34.99,34.99,high,medi
 1a062ce2-72aa-4f68-a14d-f222fabca8a5,echo.bayern,available,34.99,34.99,high,medium,4,namesilo,,,
 62239f7c-2f49-40bb-aa5d-603333735043,contaminated.bayern,available,34.99,34.99,medium,low,12,namesilo,,,
 1883f47d-d4c0-4900-963b-332b26199040,exaggerate.bayern,available,34.99,34.99,high,low,10,namesilo,,,
-7321db33-2e96-4f5b-b6ce-31bb80264fc6,essence.bayern,available,47.99,,high,low,7,name.com,,,
 74ea492a-b562-45d7-838a-6c088e9b3521,dinosaur.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 12c77f9f-864d-493a-9b16-8fc92b01336b,sainted.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 1f24852e-9a85-4090-91e3-9473fa065156,shopworn.bayern,available,34.99,34.99,medium,low,8,namesilo,,,08/08/2026 11:06
 5906b7bd-a4e6-4f52-b0ae-5ff27e56a12a,division.bayern,resell,,,high,low,8,united-domains AG,30/09/2014 10:01,30/09/2026 10:01,
 bab7a9ef-c00d-4a06-bdec-1e916c2627d8,anorectal.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
-a1cd60db-b37c-4faa-bfff-0bbb03b014df,advisor.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 d5639fc0-e17b-44d8-a4fa-a6950844aa62,pain.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 6cf8472e-a696-4e25-985b-0d8cc66ccc59,lots.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 af5b2e6c-fcef-40ec-a0ec-642b7f48c781,odious.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 62317cbe-d160-41c6-b006-e48ac244914f,pressing.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 01fe9557-8d3a-4350-9ab2-592f8d18f1a4,diminutive.bayern,available,34.99,34.99,high,low,10,namesilo,,,08/08/2026 14:10
 2886ce25-fdf4-4e71-8900-bcf1fb495444,limit.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-cc255e52-223f-4ec8-b128-da980fcd67e6,ahuh.bayern,available,34.99,34.99,high,low,4,namesilo,,,
+cc255e52-223f-4ec8-b128-da980fcd67e6,ahuh.bayern,available,34.99,34.99,medium,low,4,namesilo,,,
 1294ebff-00bb-406b-9e1e-022136416c23,accusation.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 815bd473-e6df-4ab9-9d8c-00d7bc94c9bf,deputy.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 17f8fffa-12f0-40ff-bedb-d688bbc9840c,abuse.bayern,available,34.99,34.99,high,low,5,namesilo,,,08/09/2026 12:39
 fa8daf61-ba65-4d68-9c0f-ee4f48f571d3,folder.bayern,available,47.99,,high,low,6,name.com,,,
-200922f1-0b1c-47c2-a397-14d8582c3554,rejected.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
+200922f1-0b1c-47c2-a397-14d8582c3554,rejected.bayern,available,34.99,34.99,medium,low,8,namesilo,,,25/09/2026 11:50
 331eada5-d6fe-4289-a27e-119cb2386bfc,victorian.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 73dbd69a-81cf-420b-b829-c9fcdee70373,promoter.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 8011df20-e8c2-4e5a-a498-c8267632cc01,affinal.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
 6d9b2036-d352-41ad-9353-0c9d64d807b9,principles.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 15de265e-1abe-476d-a964-a8336815d21d,light.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-a99ee427-bc4e-47ea-9a53-a0c1a3428007,clinically.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+a99ee427-bc4e-47ea-9a53-a0c1a3428007,clinically.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
 cb5eee8d-780a-4027-9dbf-3a178c288a84,acarpous.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
 57d734a5-a1af-4666-9cb7-3ab4a4d6183b,sun.bayern,premium,58.67,,high,medium,3,name.com,,,
-bebbd7b7-e5b5-465e-a192-cabac944d96e,argentine.bayern,available,,,high,low,9,,,,
+bebbd7b7-e5b5-465e-a192-cabac944d96e,argentine.bayern,available,,,medium,low,9,,,,
 67a9128c-f4a0-41e7-9b1c-b4326781622a,she.bayern,premium,58.94,,high,low,3,name.com,,,
 6fd519cf-1558-47f5-800f-a965d928cd45,diplomate.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-86acdd74-9305-405a-b3a0-f880dedca5c8,mere.bayern,available,34.99,34.99,high,low,4,namesilo,,,
+86acdd74-9305-405a-b3a0-f880dedca5c8,mere.bayern,available,34.99,34.99,high,low,4,namesilo,,,25/09/2026 19:33
 9aecf6b0-0806-43ed-9818-a510749bde9b,yawn.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 d380bb98-fc06-434f-9042-8a353ed247d0,receive.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 6878ba06-1948-4b03-ae9e-0ce9f2420d2c,prehensile.bayern,available,34.99,34.99,medium,low,10,namesilo,,,07/08/2026 22:14
@@ -394,7 +386,7 @@ c42f90f6-71d7-47a8-8870-e37739b62e32,skirt.bayern,available,47.99,,high,low,5,na
 51830e2b-e5d0-42a7-bfd9-64d64a3cac8e,bond.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 47cdc08f-3cad-45b1-b2f9-da27124426f6,eddie.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 8fe62efb-7e29-45c6-bcf8-0acb9e2ac040,possible.bayern,available,34.99,34.99,high,low,8,namesilo,,,
-2378cc95-bd46-4674-bde4-ea0d838955ff,lot.bayern,premium,58.37,,high,low,3,name.com,,,
+2378cc95-bd46-4674-bde4-ea0d838955ff,lot.bayern,premium,58.37,,high,low,3,name.com,,,25/09/2026 20:36
 9cbbb1d5-d179-4b31-bdca-6b8475bad36a,fortified.bayern,available,34.99,34.99,high,low,9,namesilo,,,09/08/2026 00:17
 61c43826-3d70-41ac-b419-e60dae5b0779,majority.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 69c74636-19e8-4d0f-b515-cc50c03b0383,steps.bayern,available,34.99,34.99,high,low,5,namesilo,,,
@@ -424,11 +416,11 @@ c6f4a8a5-3bda-4eae-949f-164386081bb8,hall.bayern,available,34.99,34.99,high,low,
 1ddff288-d14a-41de-9f57-e3858c0dde70,aqueous.bayern,available,34.99,34.99,medium,low,7,namesilo,,,06/08/2026 10:50
 3e550e22-6f29-4f38-99fa-42f0b21af794,pizzeria.bayern,premium,293.38,,high,low,8,name.com,,,
 526a40bb-7b76-4334-81a4-a8ad7691d921,disposed.bayern,available,34.99,34.99,high,low,8,namesilo,,,
-b32927c6-802f-49a4-8ef0-957402639659,vexing.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+b32927c6-802f-49a4-8ef0-957402639659,vexing.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 1f71b435-3808-485b-903a-c7517af62fc2,smiling.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 0802d69a-2105-4fbc-a8fa-23e9247ecb9b,baleful.bayern,available,34.99,34.99,medium,low,7,namesilo,,,08/08/2026 09:39
 7fee3edf-cddb-43c5-8e38-6e6e62ed6cea,amort.bayern,available,47.99,50.99,medium,low,5,name.com,,,
-a7dc0319-adc7-4103-8ac2-e8c6cd2bbae6,properties.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+a7dc0319-adc7-4103-8ac2-e8c6cd2bbae6,properties.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
 f237956b-f866-45e7-80a2-c3adf7ca6058,ageless.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 a6dbe88e-bce2-4666-9662-2be512732c2e,energy.bayern,available,,,high,low,6,,,,
 eda6b520-f970-47a9-8154-5b85f0c77ca7,hundredth.bayern,available,34.99,34.99,high,low,9,namesilo,,,
@@ -442,7 +434,6 @@ eda6b520-f970-47a9-8154-5b85f0c77ca7,hundredth.bayern,available,34.99,34.99,high
 3fac0e49-a121-4acb-be17-2fd01f39f68f,nwo.bayern,premium,58.7,,high,low,3,name.com,,,
 9d55ac80-62c8-4e6d-a5fa-5aae2a195158,generators.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
 f2dc847b-52cb-4e17-8cdb-ee743a90b62e,independent.bayern,available,47.99,,high,low,11,name.com,,,
-f2719cd9-2cfc-4daf-a34f-068fea04f66d,engine.bayern,available,34.99,34.99,high,low,6,namesilo,,,08/09/2026 12:18
 bdad0cd1-6425-4548-854d-d0e6ee18c09d,vocal.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 d7d5f3c4-d360-477c-89aa-2ad00d5bbd58,fling.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 7e2d2243-8ab0-4776-85c0-afe2e7eb6bae,warfare.bayern,available,34.99,34.99,high,low,7,namesilo,,,
@@ -450,7 +441,7 @@ d7d5f3c4-d360-477c-89aa-2ad00d5bbd58,fling.bayern,available,34.99,34.99,high,low
 d82772e4-2b50-4204-9a56-5cbce6e0ef9e,exception.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 4352d240-6d5e-4e05-9f86-314ed86523a1,channels.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 bc95267d-f435-4fde-929d-45145644fa43,solid.bayern,available,47.99,,high,low,5,name.com,,,
-d1bca976-3570-4bfa-ab25-69609026f23f,asat.bayern,available,34.99,34.99,high,low,4,namesilo,,,05/08/2026 19:31
+d1bca976-3570-4bfa-ab25-69609026f23f,asat.bayern,available,34.99,34.99,medium,low,4,namesilo,,,05/08/2026 19:31
 a7437c0d-9385-4ec8-b9c9-12e7eb750a5f,wireless.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 68843ade-e77e-47d5-8c89-a5ca150f1d35,termination.bayern,available,34.99,34.99,high,low,11,namesilo,,,04/09/2026 07:49
 800caf60-b801-4455-a146-3d715f1eb9ab,grilled.bayern,available,34.99,34.99,high,low,7,namesilo,,,08/08/2026 16:31
@@ -465,9 +456,8 @@ f1aa7734-1e1b-40de-ab50-24dbf09a1912,notion.bayern,available,34.99,34.99,high,lo
 b8aea97f-5be2-41d9-82ec-aa359e70ebb9,prohibited.bayern,available,34.99,34.99,medium,low,10,namesilo,,,08/08/2026 13:48
 d976807e-5034-4187-80ea-4d62f7da0d00,septet.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 ab58e04b-dbbc-4ef0-8b03-2ac806ac38b5,extend.bayern,available,34.99,34.99,high,low,6,namesilo,,,
-611dae0b-2f57-4034-b29d-e1be23aa7626,put.bayern,premium,58.53,,high,low,3,name.com,,,
-bd5b4583-99d2-42f0-a6d1-2ad508ad743c,monthly.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-bb06eb91-774f-4b23-ae1a-318965e93820,formless.bayern,available,47.99,50.99,high,low,8,name.com,,,
+bd5b4583-99d2-42f0-a6d1-2ad508ad743c,monthly.bayern,available,47.99,50.99,high,low,7,name.com,,,25/09/2026 21:36
+bb06eb91-774f-4b23-ae1a-318965e93820,formless.bayern,available,47.99,50.99,medium,low,8,name.com,,,
 6d2ab4ff-9391-4442-b92b-b4fb04c5c3e1,score.bayern,available,47.99,,high,low,5,name.com,,,
 d95d6259-26f6-4608-bb48-f683b0ec84cd,drown.bayern,available,34.99,34.99,medium,low,5,namesilo,,,
 7d98b187-f4dd-4de8-92cf-0ece076cce9e,neighbour.bayern,available,34.99,34.99,high,low,9,namesilo,,,
@@ -476,7 +466,8 @@ d95d6259-26f6-4608-bb48-f683b0ec84cd,drown.bayern,available,34.99,34.99,medium,l
 0c5bfa17-8f09-4c82-a304-ea076cafe14e,prolific.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 33accd04-48e2-41c0-a130-cb8f12ec17b7,perforation.bayern,available,47.99,,high,low,11,name.com,,,
 0dc603c6-5071-46df-b1d9-beb5d7784f6e,swallow.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-7f050cf4-e963-475b-b517-9cb7562ae1d0,meaningful.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+4ea3ed5c-2f0e-454c-8497-76e7c774cec3,engineering.bayern,available,34.99,34.99,high,low,11,namesilo,,,25/09/2026 15:11
+7f050cf4-e963-475b-b517-9cb7562ae1d0,meaningful.bayern,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 18:37
 3fca33ab-c2e6-4423-a10c-6637d78aa0e7,thug.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 88e8dca1-186e-4909-afe5-154a6d7016c0,been.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 509de0ea-7a2c-4e5a-8ba9-89c6aa739908,not.bayern,premium,58.6,,high,medium,3,name.com,,,
@@ -487,7 +478,7 @@ fb3baab3-63e3-4a1a-a528-bedd89dfce95,term.bayern,available,34.99,34.99,high,low,
 847a5b8e-6782-4acf-9070-82edfbb761bc,windsor.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 955063c1-362e-4c08-955b-c0fc306ccf11,westcott.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
 8335b4ef-041f-4e21-b201-e653a0936737,abstruse.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
-97b73e3a-094c-452e-aaa3-5cf489f6f779,justification.bayern,available,34.99,34.99,high,low,13,namesilo,,,
+97b73e3a-094c-452e-aaa3-5cf489f6f779,justification.bayern,available,34.99,34.99,medium,low,13,namesilo,,,
 88b3a7ac-58d1-479d-aaf1-2f561ef3ba09,allocate.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 d48dc4a2-e210-4456-8654-b4e260097237,worthwhile.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 59299f6e-3042-46af-b78b-fd0c6e52c6e9,recently.bayern,available,47.99,,high,low,8,name.com,,,
@@ -496,18 +487,18 @@ d11a40fe-09fc-4b42-8e97-96e91116da0a,veal.bayern,available,34.99,34.99,medium,lo
 5c050703-5d9b-49ec-bc45-36c6b7b83f61,lizard.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 b0e8554b-3f06-4ec8-bdee-fc236c7432ba,crayola.bayern,available,34.99,34.99,high,medium,7,namesilo,,,
 efffafe4-6965-4d98-b881-9b3b45086d85,occur.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-0f1c3639-25c3-4bfb-9b1b-1e46baf520ae,much.bayern,available,34.99,34.99,high,low,4,namesilo,,,
+0f1c3639-25c3-4bfb-9b1b-1e46baf520ae,much.bayern,available,34.99,34.99,high,low,4,namesilo,,,25/09/2026 22:03
 7326e6b0-9e0e-48f2-8b85-79933b2f6038,brainwash.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 cd558b2d-1b4a-416e-a9dd-d5623e4b6658,acre.bayern,available,34.99,34.99,high,low,4,namesilo,,,
-f09cafc5-0bfa-46f6-8643-6e6f2f9efbeb,organized.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-ba757638-12af-49a3-9af1-5919ae985d68,official.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+f09cafc5-0bfa-46f6-8643-6e6f2f9efbeb,organized.bayern,available,34.99,34.99,high,low,9,namesilo,,,26/09/2026 00:25
+ba757638-12af-49a3-9af1-5919ae985d68,official.bayern,available,34.99,34.99,high,low,8,namesilo,,,26/09/2026 00:05
 e2a4b010-afda-4167-90a1-d5b1110fbfc6,economically.bayern,available,34.99,34.99,medium,low,12,namesilo,,,
 df9e1281-d9b8-446a-8785-c01fb882a7a7,kilo.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 a122533f-4b1c-4359-aa85-77d5082c5372,lazuline.bayern,available,34.99,34.99,medium,low,8,namesilo,,,08/08/2026 03:18
 49bc7712-8fc1-404b-927a-f41300ed19c3,vicious.bayern,available,34.99,34.99,medium,low,7,namesilo,,,08/08/2026 16:00
 f6723192-5670-4909-b4b9-83630a2ca145,theft.bayern,available,34.99,34.99,high,low,5,namesilo,,,08/09/2026 07:55
 14f9b394-aea6-4330-a374-94699c578ce8,despise.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-91f6c338-cc65-4b15-8d70-486855ea5bcf,mini.bayern,premium,291.86,,high,medium,4,name.com,,,
+91f6c338-cc65-4b15-8d70-486855ea5bcf,mini.bayern,premium,291.86,,high,high,4,name.com,,,25/09/2026 20:20
 72870a33-fcfe-4ef8-88f3-228e8a41901c,pale.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 42c9e1db-0b43-4902-88b9-266623935b2a,doughnut.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 f0cc9150-588f-4169-8356-a177da61892f,crab.bayern,available,34.99,34.99,high,low,4,namesilo,,,
@@ -516,7 +507,7 @@ bf01018a-02a8-4381-ae70-6466bc35529a,ancillary.bayern,available,34.99,34.99,high
 db6b09f3-0ae9-4456-af71-8bd1311b7f07,amebous.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
 ecf9610d-89e1-43d7-ad7d-32e718f7fba6,sunglass.bayern,available,47.99,,high,low,8,name.com,,,
 f1e0ed97-a2b9-4b0b-93f4-91d6451c6062,adducent.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
-820ce8ab-64b2-4953-8ebc-4f342f500e71,undergraduate.bayern,available,34.99,34.99,high,low,13,namesilo,,,
+820ce8ab-64b2-4953-8ebc-4f342f500e71,undergraduate.bayern,available,34.99,34.99,medium,low,13,namesilo,,,
 e569338e-5ce6-4cd6-bcb7-7bc1c562f35b,anaglyphic.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
 a9eec542-3345-4cd6-9ade-fc5860e55d61,concentrated.bayern,available,34.99,34.99,high,low,12,namesilo,,,
 4b806ab7-04aa-4d32-8236-d9afb1b56269,los.bayern,premium,58.94,,high,low,3,name.com,,,
@@ -532,22 +523,20 @@ a117be8d-6145-47c6-aa5e-d512655cc2d3,bawdy.bayern,available,34.99,34.99,medium,l
 469ddff1-a9e5-4f18-96f8-40500f7a3a55,confounded.bayern,available,34.99,34.99,medium,low,10,namesilo,,,07/08/2026 11:57
 163efcce-4a4e-4a01-996a-0a6c0f5a9d6a,add.bayern,premium,58.63,,high,low,3,name.com,,,
 559f6704-acaf-4263-9712-085debac5dd7,ripe.bayern,available,,,high,low,4,,,,
-59c1ccc8-02c7-4b95-8854-1cce2fca23e7,anodyne.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-c77bdf2f-5cca-4a7b-9f5b-61d8f629bcc2,fought.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+59c1ccc8-02c7-4b95-8854-1cce2fca23e7,anodyne.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
+c77bdf2f-5cca-4a7b-9f5b-61d8f629bcc2,fought.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 403f3ce6-0795-4d68-859c-b6e7e00e9709,poll.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 c953fd22-b048-4027-a216-dbb949a9e798,dominating.bayern,available,34.99,34.99,medium,low,10,namesilo,,,07/08/2026 19:40
-96f8a0bc-3035-44f7-96ac-f60ca3703fe2,interior.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 a1b0ad33-d5e4-4eb5-a9db-1f7a8d9d46e9,greet.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 3000ae40-4deb-4ae5-bb05-8658140ae9a6,peeking.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 1e3bd92b-727e-4ef1-ad65-0ba62cf96bb8,lowly.bayern,available,34.99,34.99,medium,low,5,namesilo,,,08/08/2026 21:38
 998d2d80-2e38-45ef-9623-3a52aceee1a3,balky.bayern,available,34.99,34.99,medium,low,5,namesilo,,,08/08/2026 09:55
 0f8bc792-6dd8-4f4e-a4db-3c62ccd5e0ad,prose.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-5f664891-99ff-4bb7-8030-8c6801043566,injury.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 5786f2f3-2045-4762-8923-9248e928ba65,reveal.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 674ddf02-cb0e-4376-8e95-b75688222ff3,aramean.bayern,available,34.99,34.99,high,low,7,namesilo,,,06/08/2026 12:02
 50d1ccd8-14f8-423c-850b-73bcf2d142b7,include.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 b84f6f63-9311-4f6a-b5d2-9ae3959aed6b,haiti.bayern,available,,,high,low,5,,,,
-4bff5c23-6b0b-4d1c-b191-e684f9843e10,messy.bayern,available,34.99,34.99,high,low,5,namesilo,,,
+4bff5c23-6b0b-4d1c-b191-e684f9843e10,messy.bayern,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 19:49
 8527b97e-2bac-4d03-856f-b9a365f735b8,boom.bayern,available,47.99,,high,medium,4,name.com,,,
 aaca2b86-2c78-4011-b4e0-7f1902562974,dew.bayern,premium,58.6,,high,low,3,name.com,,,
 2d8f8568-c124-4f00-a4a1-e99b33d2f708,moi.bayern,premium,58.94,,high,low,3,name.com,,,
@@ -562,7 +551,7 @@ f82ae491-1626-46eb-a0f6-a979a603dda8,distribute.bayern,available,34.99,34.99,hig
 62cfb5d3-2f08-4f53-a132-a4fa6e426ef1,humanlike.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
 b6fcac37-a66c-4c60-8c57-cf354df30098,tyrannical.bayern,available,47.99,50.99,medium,low,10,name.com,,,07/08/2026 19:12
 53f3f3f9-d73c-4777-a94b-a47421bff3cd,impulse.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-9e0ad3b2-f710-4d60-b5ca-2ef29892f584,interstate.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+9e0ad3b2-f710-4d60-b5ca-2ef29892f584,interstate.bayern,available,47.99,50.99,high,low,10,name.com,,,25/09/2026 10:24
 1dccb196-6f45-4b48-ae98-28327701c4cd,clash.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 b72df027-a60f-455e-95cc-97a23ed11ce1,almond.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 c0195434-b6ae-442d-a349-51050545f06b,duchess.bayern,available,34.99,34.99,high,low,7,namesilo,,,
@@ -584,7 +573,7 @@ b072a01a-f8d8-451c-88ee-70a57ec8ea6c,which.bayern,available,34.99,34.99,high,med
 d2352069-49a0-437b-907d-8c6fe788dcbc,curiously.bayern,available,47.99,,high,low,9,name.com,,,
 e5d670ee-9b73-4e0f-b9f0-238f9daa13f0,notwithstanding.bayern,available,34.99,34.99,medium,low,15,namesilo,,,
 7265b2f0-d02f-43f6-9a58-ff22cc211ffb,cheerfully.bayern,available,34.99,34.99,high,low,10,namesilo,,,
-922ca4f6-9de3-4be4-9296-945c40a5013a,intrinsic.bayern,available,34.99,34.99,high,low,9,namesilo,,,
+922ca4f6-9de3-4be4-9296-945c40a5013a,intrinsic.bayern,available,34.99,34.99,high,low,9,namesilo,,,25/09/2026 10:55
 bed0bf80-5977-4d47-8434-46cb60af62ee,expedite.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 dde2f4ff-b746-4e31-824a-1d5bdc89ed9d,tardy.bayern,available,34.99,34.99,medium,low,5,namesilo,,,09/08/2026 12:42
 07aedf88-ba4c-4c0d-b900-5d5074f811ea,annalistic.bayern,available,34.99,34.99,high,low,10,namesilo,,,
@@ -598,9 +587,7 @@ beaef41e-5898-450d-8c6e-3d8873a26187,oppose.bayern,available,34.99,34.99,high,lo
 39c9d7e8-f3ae-4f06-8202-7f39215d1fce,anniversary.bayern,available,34.99,34.99,high,low,11,namesilo,,,
 8ec79964-492a-42a1-b3a7-4d533aab056f,beastly.bayern,available,34.99,34.99,medium,low,7,namesilo,,,09/08/2026 04:54
 c404f492-3947-4c9f-bf2c-78252b169f53,regarded.bayern,available,34.99,34.99,high,low,8,namesilo,,,
-8a1f955e-ed50-4ae1-9393-86daa0340bcb,trauma.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 4839036d-b88e-4e83-b0c8-2877d485f393,refundable.bayern,available,34.99,34.99,high,low,10,namesilo,,,
-44552614-1072-40a8-ad5e-be0802cd75c6,wealth.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 2fdeaba0-e658-43f7-942b-936ea632f100,seedy.bayern,available,,,medium,low,5,,,,
 a5c75f1e-e9f2-4025-a3ae-86af23fd7651,investments.bayern,premium,291.96,,high,low,11,name.com,,,
 0340231e-ac23-4c5f-bc05-76837cd55172,educational.bayern,available,34.99,34.99,high,low,11,namesilo,,,
@@ -610,7 +597,7 @@ e2f1754e-a82a-44c5-ae06-cde1cddb7a15,violation.bayern,available,34.99,34.99,high
 9f8606e3-b9ac-41ae-9294-cc3eb923f20e,diverted.bayern,available,47.99,50.99,high,low,8,name.com,,,
 d68d9116-4b62-405c-bea3-bfaef2a6d25a,arctic.bayern,available,34.99,34.99,high,low,6,namesilo,,,06/08/2026 16:07
 91ba8afc-c565-409e-ac32-923f5caa065e,arbitral.bayern,available,34.99,34.99,medium,low,8,namesilo,,,06/08/2026 12:48
-510d2773-b373-4325-b8e7-8ccafdbd5ff5,thrown.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+510d2773-b373-4325-b8e7-8ccafdbd5ff5,thrown.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 73993fea-a258-4354-904f-a6607a9f9216,bagel.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 b92af1b3-17e1-4c3f-8a6b-0a7909f6c88d,acned.bayern,available,34.99,34.99,low,low,5,namesilo,,,
 22981138-9484-41ce-a02e-1b718987dbaf,disagree.bayern,available,34.99,34.99,high,low,8,namesilo,,,
@@ -620,7 +607,7 @@ d2bc5a77-271d-4e42-a24e-1a4d632d8b19,cook.bayern,available,34.99,34.99,high,low,
 f3f46547-f0f9-46b4-ab9a-1e5f5d0efad5,soundlike.bayern,available,34.99,34.99,low,low,10,namesilo,,,
 d8604e24-4fbd-4b7b-bfbf-59c9b914acfd,sunbelt.bayern,available,47.99,,high,low,7,name.com,,,
 d188f7b2-0dbc-4565-93ea-309054798e23,visited.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-9baac8a2-2c07-49fa-b21c-2835b27f7771,lyric.bayern,available,34.99,34.99,high,low,5,namesilo,,,
+9baac8a2-2c07-49fa-b21c-2835b27f7771,lyric.bayern,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 15:47
 4a92dce8-c155-457d-a538-9e4b688f02d5,antioxidant.bayern,available,34.99,34.99,high,low,11,namesilo,,,
 12595d45-c398-4848-a773-c67997c88227,infuriated.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
 4163bd96-0f4c-4dd8-ad12-77f62410f3a5,asymptotic.bayern,available,34.99,34.99,medium,low,10,namesilo,,,07/08/2026 10:30
@@ -653,7 +640,7 @@ d10e572c-61eb-47e2-b02e-40dbe4946186,pledged.bayern,available,34.99,34.99,high,l
 c00dda42-c570-494d-9a0a-d2aab2a17bb5,vacuum.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 3c0fd9b0-035b-4af3-b701-5fe0f9690977,clap.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 f2a34fdc-37e3-43b2-8fe5-475a0836ded6,hexad.bayern,available,34.99,34.99,medium,low,5,namesilo,,,
-6667955e-5b3e-40f8-b460-5018e9b9daeb,optic.bayern,available,34.99,34.99,high,low,5,namesilo,,,
+6667955e-5b3e-40f8-b460-5018e9b9daeb,optic.bayern,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 23:58
 15594ff0-3605-43d5-b03a-11edad76e093,azo.bayern,premium,57.81,50.99,high,low,3,name.com,,,08/08/2026 02:17
 c74a6415-23c7-46bf-9fd3-4702864a7ca2,annotated.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 795f1e0d-df46-4367-aecc-a92876f5d596,fee.bayern,premium,58.46,,high,low,3,name.com,,,
@@ -669,7 +656,7 @@ ae253c00-2e31-4900-a8a2-1cc9be1df173,kleenex.bayern,available,34.99,34.99,high,l
 144fb749-28ac-40ad-b68c-07623f65c19f,accident.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 aac72631-55c6-4b3a-a12a-4fc34dbe90de,inhale.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 ede52929-0c99-42f1-85ab-72a900f31bef,indiana.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-6051893a-0878-40e7-b853-7f4907ad67f0,macro.bayern,available,34.99,34.99,high,low,5,namesilo,,,
+6051893a-0878-40e7-b853-7f4907ad67f0,macro.bayern,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 15:59
 32277b3d-8527-46ef-abd5-adbe88009e40,burger.bayern,premium,117.16,,high,low,6,name.com,,,
 d51b2e88-bbbf-4e57-953b-8bc0df6588fa,azonic.bayern,available,34.99,34.99,medium,low,6,namesilo,,,08/08/2026 02:32
 9cbbb325-30de-4f0d-a997-99b6b7136619,latest.bayern,available,34.99,34.99,high,low,6,namesilo,,,
@@ -689,10 +676,10 @@ f7e47a1a-ba1f-4196-aeed-500d77c89af1,accurst.bayern,available,34.99,34.99,medium
 ed996359-84c0-49ce-bbe7-aab311f82950,spoon.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 44ea4a5c-4f72-4687-8bc9-e73e566a4e45,wired.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 f944714c-841f-43b5-b30f-39cb40486cbb,threesome.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-5a33b4b8-7f1c-465d-a378-240fa1f28e63,airlike.bayern,available,34.99,34.99,high,low,7,namesilo,,,
+5a33b4b8-7f1c-465d-a378-240fa1f28e63,airlike.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
 57c2ce93-e8ba-4dac-bcca-bd943d300dfa,introduced.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 a5844bb2-dc3e-45c4-8bd4-c7d7925f47ed,fix.bayern,premium,58.64,,high,low,3,name.com,,,
-2fb3f5f5-58cb-4caa-8dc1-6822ed108f43,proper.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+2fb3f5f5-58cb-4caa-8dc1-6822ed108f43,proper.bayern,available,34.99,34.99,medium,low,6,namesilo,,,25/09/2026 17:25
 821ac5fb-aafb-48f9-96f8-f800f1110c3b,mmr.bayern,premium,58.84,,high,low,3,name.com,,,
 94e06214-0d18-4913-848d-2e962751dde2,understood.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 e590b9ea-86a9-4da8-a7f5-276226643c97,wonder.bayern,available,34.99,34.99,high,medium,6,namesilo,,,
@@ -704,32 +691,30 @@ cac19c48-54b4-42f8-b7a8-7f5174ab6e96,arresting.bayern,available,34.99,34.99,high
 85d6f6e6-3118-4959-8d96-1a22e8403f47,tons.bayern,available,47.99,,high,low,4,name.com,,,
 7be969ee-2925-48a7-a8f9-dbf0f1e2da15,shrek.bayern,available,47.99,,high,medium,5,name.com,,,
 6c507c8e-93a0-4c7f-8404-5078b1822f20,showed.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
-fb9df7e8-4b8c-4d26-8e76-46b8df69b099,immense.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 b66375d3-2da5-463b-b777-84b6181bc1f3,confusion.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-20c38789-6ddc-4463-9ef0-46a52b5ce4be,lunar.bayern,available,34.99,34.99,high,low,5,namesilo,,,
+20c38789-6ddc-4463-9ef0-46a52b5ce4be,lunar.bayern,available,34.99,34.99,high,medium,5,namesilo,,,25/09/2026 15:39
 629b554c-da28-48ce-afc3-85a1c11fd395,journalism.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 36fa5626-40e4-47bf-afa4-63c612af2b15,proactive.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-b92f718a-0b75-4675-b248-281261eb5c55,invincible.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+b92f718a-0b75-4675-b248-281261eb5c55,invincible.bayern,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 11:10
 60ea3661-5aac-4fd4-b3ee-24dc5529917e,dna.bayern,premium,58.47,,high,medium,3,name.com,,,
 309866bf-b4b3-4ea9-bf45-2abe5467c8b8,cocktail.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 97c796c0-4237-4419-9d92-f9f1c7367667,monstrous.bayern,available,34.99,34.99,medium,low,9,namesilo,,,07/08/2026 14:47
-2e041929-0ba6-4892-8a02-43a584f806b8,invisible.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 26dd4aae-e40e-4e2d-b9e8-7bf5fd786b8e,ashy.bayern,available,34.99,34.99,high,low,4,namesilo,,,07/08/2026 02:04
 0d96c91c-ec76-41c3-a26d-2e7da0604da1,seagull.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 2498e2ac-0b61-47be-a6f9-e1caf5cb20e5,exhibition.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 96ba75ca-d5a1-4c2c-ab6f-9ed4cb11d613,pittsburgh.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 d7a2a7ca-e920-47ba-908c-41825c76449e,supermodel.bayern,available,47.99,,high,low,10,name.com,,,
 615dcbab-5f8c-4b20-bfdc-652cf3366901,amorphous.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
-8efa7956-7f4d-4bd4-8ae3-bce54dfdf3a7,analyzed.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+8efa7956-7f4d-4bd4-8ae3-bce54dfdf3a7,analyzed.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
 07ac7859-fcd4-470d-a4d8-3300aa43faab,april.bayern,available,34.99,34.99,high,medium,5,namesilo,,,
 f7b37d06-7150-41b5-b6bf-c5110f44d0f0,daft.bayern,available,34.99,34.99,high,low,4,namesilo,,,06/08/2026 20:50
 18b78e1c-beff-4b47-a9d5-337d9bd65488,agnatic.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
 2fc9444d-6db4-4afb-968c-482b1382cfd9,voluntarily.bayern,available,34.99,34.99,high,low,11,namesilo,,,
-56fe4346-3f84-44e4-a151-34c99bffb9a5,phony.bayern,available,34.99,34.99,high,low,5,namesilo,,,08/08/2026 23:09
+56fe4346-3f84-44e4-a151-34c99bffb9a5,phony.bayern,available,34.99,34.99,medium,low,5,namesilo,,,08/08/2026 23:09
 5f095773-a535-4ddb-a070-3bd4f8b0ea32,unceasing.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 5b771cf5-c963-4221-9b26-d10bbbe8428d,befuddled.bayern,available,34.99,34.99,medium,low,9,namesilo,,,07/08/2026 11:41
 79957311-37fb-455f-a26e-4e7ea6776132,expedition.bayern,available,34.99,34.99,high,low,10,namesilo,,,
-6db0f429-37c8-4a48-a72a-e4f2635f56f2,asiatic.bayern,available,34.99,34.99,high,low,7,namesilo,,,07/08/2026 02:29
+6db0f429-37c8-4a48-a72a-e4f2635f56f2,asiatic.bayern,available,34.99,34.99,medium,low,7,namesilo,,,07/08/2026 02:29
 87a41d17-3ff1-4f69-b6a1-7e4982049bdc,flourishing.bayern,available,47.99,,high,low,11,name.com,,,
 a36070b0-b18d-49a1-9ee0-d027ab4115d0,philips.bayern,available,34.99,34.99,high,medium,7,namesilo,,,
 a854faf2-e3d7-4742-b047-2fbef907fdba,grimy.bayern,available,34.99,34.99,medium,low,5,namesilo,,,09/08/2026 09:25
@@ -753,10 +738,10 @@ fe2fe882-179d-4387-b2b7-e3ceb08158f2,kitschy.bayern,available,34.99,34.99,medium
 1a6ad2cf-ef2b-4eeb-97c3-ee08c4e5ff5f,capitalise.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 1aa1d757-d804-47dc-8ea1-ca54b5595381,rake.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 524d60dd-8952-487f-becb-de9837343c4e,accoutered.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
-232e7916-6133-4f08-860f-e2753f255a37,median.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+232e7916-6133-4f08-860f-e2753f255a37,median.bayern,available,34.99,34.99,high,low,6,namesilo,,,25/09/2026 18:47
 24b30e56-decf-41ae-a1a6-05b093f24455,mills.bayern,available,47.99,,high,low,5,name.com,,,
 d24ddb06-d7c2-461c-b96b-ab6b0b2a6c76,jasmine.bayern,available,34.99,34.99,high,low,7,namesilo,,,08/09/2026 14:04
-dd66aaca-c2f6-4e25-853f-54fad180b495,bidens.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+dd66aaca-c2f6-4e25-853f-54fad180b495,bidens.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 7ebfe6c1-6da4-4316-a212-4197defd8188,groups.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 57d8bd13-b0c1-4a75-90b8-0497de4219a9,difficulty.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 3b0860d9-4a69-4b40-a2e2-b8959cdda469,rare.bayern,available,34.99,34.99,high,medium,4,namesilo,,,
@@ -772,7 +757,7 @@ e294e732-2cab-41ef-a54a-c5d757664dd4,walk.bayern,available,34.99,34.99,high,low,
 0b056b10-4fb9-4839-9ecd-7b2c701ac89c,ameboid.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
 c21e3675-2584-4252-bb96-2826513061a0,ape.bayern,premium,57.77,50.99,high,low,3,name.com,,,
 54a2da50-fa47-4335-9068-9a2959861e93,asocial.bayern,available,34.99,34.99,medium,low,7,namesilo,,,07/08/2026 04:36
-24f51460-10de-493e-9f66-a76c17f45e58,exactly.bayern,available,34.99,34.99,high,low,7,namesilo,,,
+24f51460-10de-493e-9f66-a76c17f45e58,exactly.bayern,available,34.99,34.99,high,low,7,namesilo,,,26/09/2026 00:15
 a29ce219-3c36-41a2-a285-883dbf4074e0,pair.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 10c5f525-825d-4cc2-9933-8a1d0eb79721,brow.bayern,available,47.99,,high,low,4,name.com,,,
 3b573e90-06dd-4496-ba78-9562117792d0,worth.bayern,available,34.99,34.99,high,low,5,namesilo,,,
@@ -783,14 +768,14 @@ c519c9e3-fb54-4fae-b19f-b0f0f71a5a4f,appropriately.bayern,available,34.99,34.99,
 0252bc0c-1b6a-43fe-b340-476f38590950,transparency.bayern,available,34.99,34.99,high,low,12,namesilo,,,
 f5bc3653-33eb-4844-8d8c-d645a54d4a3e,banging.bayern,available,34.99,34.99,high,low,7,namesilo,,,08/08/2026 13:03
 7f6bd731-d872-475a-99bc-0210d42a2242,boxers.bayern,available,47.99,,high,low,6,name.com,,,
-966b66da-9bda-4bbb-83ab-63f76fcc239a,anyone.bayern,available,47.99,,high,low,6,name.com,,,
+966b66da-9bda-4bbb-83ab-63f76fcc239a,anyone.bayern,available,47.99,,medium,low,6,name.com,,,
 22b134f4-3500-4ed5-9980-557232f59ed2,theme.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 a711ee3e-fc9b-45d9-98f7-152419ce30b7,seemly.bayern,available,34.99,34.99,medium,low,6,namesilo,,,09/08/2026 06:27
 4c997710-90fd-4e81-8d0d-99667c5a31ea,compensate.bayern,available,47.99,,high,low,10,name.com,,,
-63371f5b-6240-45dc-8ee9-f779ee470747,unwell.bayern,available,47.99,50.99,high,low,6,name.com,,,
+63371f5b-6240-45dc-8ee9-f779ee470747,unwell.bayern,available,47.99,50.99,medium,low,6,name.com,,,
 c9b2a0e3-cceb-470d-a071-521b98c3ae58,length.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 98ee40d8-0cb1-4ef2-9e16-d72d2a846701,cry.bayern,premium,58.49,,high,low,3,name.com,,,
-e21c6e77-c7a9-400f-9e72-126d0ec3f2c3,loving.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+e21c6e77-c7a9-400f-9e72-126d0ec3f2c3,loving.bayern,available,34.99,34.99,high,low,6,namesilo,,,25/09/2026 14:30
 728add4c-a712-4ef9-8090-6b230140b7fb,anecdotal.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 cb681976-4d75-4d7a-b238-6dfa9ea500a0,sets.bayern,available,34.99,34.99,medium,low,4,namesilo,,,
 5b729150-54f7-419b-a5ba-13e7da7b10a7,youngest.bayern,available,34.99,34.99,high,low,8,namesilo,,,
@@ -800,7 +785,7 @@ aee0305e-b146-471f-8b94-3458ca0660a9,argentic.bayern,available,47.99,50.99,mediu
 696a86c1-7c4f-480a-88f1-30e118222eb5,group.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 ee256d5b-eea3-42cb-8095-8c5306cad307,untrustworthy.bayern,available,34.99,34.99,medium,low,13,namesilo,,,
 815ba4ef-d835-45fc-8577-ffa0ac1e2616,panoplied.bayern,available,34.99,34.99,medium,low,9,namesilo,,,06/08/2026 21:42
-43a20872-752f-4657-a0b3-c5b14e111bd4,sanctioned.bayern,available,34.99,34.99,high,low,10,namesilo,,,06/08/2026 09:24
+43a20872-752f-4657-a0b3-c5b14e111bd4,sanctioned.bayern,available,34.99,34.99,medium,low,10,namesilo,,,06/08/2026 09:24
 fbb9655d-6473-41ac-b6f8-64110dd2da17,daring.bayern,available,34.99,34.99,high,low,6,namesilo,,,07/08/2026 21:39
 b39fd0fa-f8f7-4631-b5bd-3dd180064230,babe.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 bffd532a-9222-487d-a3bf-893c732e420a,newspaper.bayern,available,34.99,34.99,high,low,9,namesilo,,,
@@ -810,7 +795,6 @@ bffd532a-9222-487d-a3bf-893c732e420a,newspaper.bayern,available,34.99,34.99,high
 844f9ad9-3d70-4982-ae89-e564ec7665c9,allotted.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 a1d70cec-520a-4006-8852-255af945df0b,crap.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 2228e36b-b733-4e6b-a35c-156dc30c49ac,eat.bayern,premium,58.96,,high,low,3,name.com,,,
-f9f8be45-aa1b-4b43-9907-b36af197ec1d,device.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 b767303f-916d-4eb1-b534-7205c3c2d71e,circle.bayern,available,47.99,,high,medium,6,name.com,,,
 6faaf669-ff28-49e8-a60c-163b7285177a,come.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 05b53c6f-84ea-4108-97a5-eaec9000c791,moved.bayern,available,34.99,34.99,high,low,5,namesilo,,,
@@ -821,17 +805,17 @@ f1d4f520-92fb-43f7-8d6a-68f7f7ef72a9,menu.bayern,available,34.99,34.99,high,low,
 100448c6-e1a2-4260-ad10-3347182e5784,autogenous.bayern,available,47.99,50.99,medium,low,10,name.com,,,07/08/2026 20:16
 e0dfcc1f-6b7f-4276-9c85-bea681a6b72d,specification.bayern,available,34.99,34.99,high,low,13,namesilo,,,
 eb249c31-5d3d-4b6f-b3cf-fb81389cb7f1,closely.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-730f8cd9-2c1e-4aee-9a77-f56df6b828e6,believable.bayern,available,34.99,34.99,high,low,10,namesilo,,,09/08/2026 13:01
+730f8cd9-2c1e-4aee-9a77-f56df6b828e6,believable.bayern,available,34.99,34.99,medium,low,10,namesilo,,,09/08/2026 13:01
 72330363-f2b4-4ccb-ac64-15af3fe461e1,pentium.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 b603790f-4390-4202-8ce1-5d36c16f0391,siri.bayern,available,34.99,34.99,high,high,4,namesilo,,,
-28b66fb2-7805-4b24-a7a9-7935ac215021,lordly.bayern,available,34.99,34.99,high,low,6,namesilo,,,07/08/2026 17:05
+28b66fb2-7805-4b24-a7a9-7935ac215021,lordly.bayern,available,34.99,34.99,medium,low,6,namesilo,,,07/08/2026 17:05
 acb24752-50ea-4eec-9179-3f55f441cfe3,neck.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 5f23db6c-e6e6-4074-8728-e15006cfab9b,grownup.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 1fa2a3a2-9167-4a76-8dff-8a22afd665a9,whom.bayern,available,34.99,34.99,medium,low,4,namesilo,,,
 5672004f-b87a-44fe-b595-d1719b48ed03,needing.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 3f8142cf-978d-4fad-ae09-344e5d821bf1,fedex.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 7c04e76e-8a27-4646-abe3-831b0806339f,urge.bayern,available,34.99,34.99,high,low,4,namesilo,,,
-2aec5ced-72c2-42fb-aa49-4378d2869ecc,anemic.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+2aec5ced-72c2-42fb-aa49-4378d2869ecc,anemic.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 adcf646d-f54a-4847-8177-7b3dd96f83ca,clock.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 fadf4348-a0d7-4b55-98eb-30a8efd81c83,entirely.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 a7cc1853-cd87-4fb8-841c-ba36968553d8,sec.bayern,premium,58.67,,high,low,3,name.com,,,
@@ -839,7 +823,7 @@ f1a091ae-561d-408b-b7bc-bf194c908e18,leaning.bayern,available,34.99,34.99,high,l
 2ebf76a9-e87d-4638-96fa-7cd240c1f80a,optionally.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 98e39b44-686e-4dbc-963f-0d428cce683a,ariled.bayern,available,47.99,50.99,medium,low,6,name.com,,,06/08/2026 19:09
 ec77dc91-7125-466a-bb05-56d1eb5c2955,congregation.bayern,available,34.99,34.99,high,low,12,namesilo,,,
-429d8cb2-ea47-4e42-b807-538a7564c334,marooned.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
+429d8cb2-ea47-4e42-b807-538a7564c334,marooned.bayern,available,34.99,34.99,medium,low,8,namesilo,,,25/09/2026 16:58
 bfac2aba-61ba-4226-8c09-313d465fb585,album.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 7896f003-f080-4ca1-ae8d-9cfe98f2403f,canal.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 6a82e7cb-076c-42e6-b3fc-eda1b5f3c3a1,produce.bayern,available,34.99,34.99,high,low,7,namesilo,,,
@@ -854,7 +838,7 @@ bd79fcdb-3816-4622-8d67-d156f8e0d348,unused.bayern,available,34.99,34.99,medium,
 d45d705d-e38d-43c7-bf40-16793aab8640,conduction.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 4e37c612-1ab2-44d3-8292-c181bbf23b50,understand.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 f6d8cac3-a440-40f4-b384-6f02b8c99066,colombo.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-1d85a15e-4ebf-466c-893c-4617255e7ae1,invaluable.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+1d85a15e-4ebf-466c-893c-4617255e7ae1,invaluable.bayern,available,34.99,34.99,high,low,10,namesilo,,,25/09/2026 11:01
 de4c4aed-ae58-4dc9-a2a1-e9e21f2c8711,conventionally.bayern,available,47.99,,medium,low,14,name.com,,,
 3d9adccb-41a9-4136-a59a-cb0a742f7955,laws.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 f9c11468-16bd-44bc-9b3a-2101967dae88,environmentally.bayern,available,34.99,34.99,medium,low,15,namesilo,,,
@@ -877,14 +861,13 @@ af6b73ba-7572-4df1-90f9-4464d736cd84,scan.bayern,available,34.99,34.99,high,low,
 f48dfd32-bc10-4f2b-a5d0-5f898ec02e51,distinguished.bayern,available,34.99,34.99,high,low,13,namesilo,,,
 345fb64b-43a7-43e5-9cb8-99f599c6359b,limo.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 ddcee2e2-91af-4678-a804-be11457f9669,briefs.bayern,available,34.99,34.99,high,low,6,namesilo,,,
-a141ddc3-ff1f-49d7-8d88-71e12412a0c1,temporary.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 db402a7f-9532-4c5c-bda4-843889e0bd31,abaxial.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
 72f418db-10af-489e-9187-dbd5c37c986f,covid.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-1eba1620-6101-4a51-b46b-e8b17dc96d6a,haywire.bayern,available,47.99,50.99,high,low,7,name.com,,,
-57558925-03d5-4197-9337-175daec5833f,jolly.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-db182ea1-139f-4400-b37e-f87da3ef9d7f,lowering.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+1eba1620-6101-4a51-b46b-e8b17dc96d6a,haywire.bayern,available,47.99,50.99,medium,low,7,name.com,,,
+57558925-03d5-4197-9337-175daec5833f,jolly.bayern,available,34.99,34.99,high,low,5,namesilo,,,25/09/2026 11:52
+db182ea1-139f-4400-b37e-f87da3ef9d7f,lowering.bayern,available,34.99,34.99,high,low,8,namesilo,,,25/09/2026 15:28
 91a1f19e-c755-4122-8daa-f1a1ff61a2c1,perspective.bayern,available,34.99,34.99,high,low,11,namesilo,,,
-8b9ec397-872e-46a5-b644-410b8eb40446,magical.bayern,available,34.99,34.99,high,low,7,namesilo,,,
+8b9ec397-872e-46a5-b644-410b8eb40446,magical.bayern,available,34.99,34.99,high,low,7,namesilo,,,25/09/2026 16:07
 22ee46d5-66e6-4969-a12f-2231de388d2f,seats.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 208e93e0-00c1-4498-9bdb-a589a2046a30,side.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 3ad63b43-b25d-4601-a6bb-2695fdd1bffa,wiring.bayern,available,34.99,34.99,high,low,6,namesilo,,,
@@ -892,28 +875,25 @@ db182ea1-139f-4400-b37e-f87da3ef9d7f,lowering.bayern,available,34.99,34.99,high,
 ae2e06bc-dbb4-4aed-8351-7ebaf30b3f72,danger.bayern,available,47.99,,high,low,6,name.com,,,
 a833046d-48c5-4226-9ff8-90c8a23a4106,banked.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
 39a13dff-b9b0-4543-96bb-5fa3ccabed3f,enable.bayern,available,34.99,34.99,high,low,6,namesilo,,,
-65056ce1-2666-46a1-a897-3096ce546c40,used.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 2ede2c44-8e87-425e-ac7c-6f981904074b,between.bayern,available,34.99,34.99,high,low,7,namesilo,,,
-25a686d6-ff9d-4499-bb42-2c2fca2743d8,jewish.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+25a686d6-ff9d-4499-bb42-2c2fca2743d8,jewish.bayern,available,34.99,34.99,high,low,6,namesilo,,,25/09/2026 11:48
 3fa8b8a7-4beb-46b7-a2e2-7889532af10f,monitor.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 6ad8cecf-c73b-4069-bfcc-59219428bc43,altissimo.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
 603cf3b2-cd9c-4308-8635-9655e9d0cb87,interact.bayern,available,34.99,34.99,high,low,8,namesilo,,,
-b8195bef-581a-46ee-8e0e-a7c70a12fdd6,crackers.bayern,available,34.99,34.99,high,low,8,namesilo,,,06/08/2026 20:45
-b2a27e98-60fc-4f6f-94e3-0c5ed18c92c2,deserted.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+b8195bef-581a-46ee-8e0e-a7c70a12fdd6,crackers.bayern,available,34.99,34.99,medium,low,8,namesilo,,,06/08/2026 20:45
+b2a27e98-60fc-4f6f-94e3-0c5ed18c92c2,deserted.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
 7a003e5a-f1a6-4e7f-bbdc-ddf67b4810f9,limitation.bayern,available,34.99,34.99,medium,low,10,namesilo,,,
 7cb2f743-7d35-4509-bd4f-113c21a25a7c,autistic.bayern,available,34.99,34.99,high,low,8,namesilo,,,07/08/2026 19:22
 dbefe8fa-9523-4ebc-876e-66f107d614a6,aweigh.bayern,available,34.99,34.99,low,low,6,namesilo,,,07/08/2026 14:29
-dca63bb5-dc2b-4583-9f81-0f61f2bba354,hungry.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 71e438c7-172e-4300-b24d-ac291eb9fdd6,feb.bayern,premium,58.77,,high,low,3,name.com,,,
 88ed9be7-c6af-4342-96af-29479d623cc4,boer.bayern,available,34.99,34.99,high,low,4,namesilo,,,
-73588df7-3686-448e-9b26-439c03b35cf4,artless.bayern,available,34.99,34.99,high,low,7,namesilo,,,06/08/2026 23:47
+73588df7-3686-448e-9b26-439c03b35cf4,artless.bayern,available,34.99,34.99,medium,low,7,namesilo,,,06/08/2026 23:47
 b1fd1399-25b4-42b2-bac2-992669730f80,heartthrob.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 b1c4aa2f-e459-46bc-9261-4ba1f61cd1f1,orchestra.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 5715ff0f-5f8f-4a31-b214-d3bab786f88e,batrachian.bayern,available,34.99,34.99,medium,low,10,namesilo,,,05/08/2026 20:53
 892c9cb5-e97e-4183-a51a-2fa55762ef39,artful.bayern,available,34.99,34.99,high,low,6,namesilo,,,06/08/2026 22:44
 4d29002e-7b22-4d39-907a-1309b028188a,annelid.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
 a7bccbf5-9a88-4165-8832-cb9b5124a58f,roger.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-f0deaa1f-ac54-4bb0-af89-7603850dd262,hospital.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 dba66e0b-bd77-461a-8ceb-6ad88db88a16,according.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 46aeb5ad-36f0-40c8-9a9b-ce31cbfae8ca,expect.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 dcbc8f48-0354-4753-a3ad-c15ed7372d12,basically.bayern,available,34.99,34.99,high,low,9,namesilo,,,
@@ -927,7 +907,7 @@ fa245192-2e68-4d19-9680-447daee5b865,idle.bayern,available,34.99,34.99,high,low,
 ed9ef053-a5c0-4a7a-841e-fe764ced071f,cat.bayern,available,,,high,low,3,,,,
 f99837f3-e8d9-40a3-bac1-49a2decc15a5,airy.bayern,available,34.99,34.99,high,low,4,namesilo,,,
 a2baf077-839e-4f56-95d4-71727a2acc2c,additive.bayern,available,34.99,34.99,high,low,8,namesilo,,,
-5297ee97-3575-489b-b4f9-d5ddcd102486,alienate.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+5297ee97-3575-489b-b4f9-d5ddcd102486,alienate.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
 7541fc38-72e2-4960-b3bf-74c4519b1941,panasonic.bayern,available,34.99,34.99,high,medium,9,namesilo,,,
 0e0dd244-8fb5-4612-a6a8-40ce944b3c0c,clxxv.bayern,available,34.99,34.99,medium,low,5,namesilo,,,
 36a3400d-2188-4435-b3f8-a64e83092284,flowers.bayern,available,34.99,34.99,high,medium,7,namesilo,,,
@@ -937,12 +917,12 @@ ac689dfe-f399-4123-8713-37a6b48b00d9,ambivalent.bayern,available,34.99,34.99,med
 e8a6d4a5-c60d-44bf-a197-a2cb041d16d6,buster.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 86e86a56-47a7-43b2-9de1-b01252bd6690,interpret.bayern,available,34.99,34.99,high,low,9,namesilo,,,
 afe23642-c513-4d10-b81c-2d18701448dd,peace.bayern,available,34.99,34.99,high,low,5,namesilo,,,
-40cc2e4e-fc26-49a5-8793-ddfbe35a4273,jerk.bayern,available,34.99,34.99,high,low,4,namesilo,,,
+40cc2e4e-fc26-49a5-8793-ddfbe35a4273,jerk.bayern,available,34.99,34.99,high,low,4,namesilo,,,25/09/2026 11:41
 c9170418-0dd4-42bb-bb0a-1a0e23c1c300,couple.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 aba30578-2c48-4be8-8012-d1eb84c19d45,lady.bayern,available,47.99,,high,low,4,name.com,,,
 03fab05f-26f6-4be6-8184-b04ba3efa853,confused.bayern,available,34.99,34.99,high,low,8,namesilo,,,07/08/2026 12:02
 f0860ede-4a9f-455d-a723-10ad916163c2,prickly.bayern,available,34.99,34.99,high,low,7,namesilo,,,08/08/2026 17:34
-40268619-d60d-473b-b420-3da96a2b75c8,pretty.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+40268619-d60d-473b-b420-3da96a2b75c8,pretty.bayern,available,34.99,34.99,high,low,6,namesilo,,,25/09/2026 12:04
 76a278aa-b0d1-44b0-ba03-0173e4f227cb,afghani.bayern,available,34.99,34.99,medium,low,7,namesilo,,,
 ab5871f7-db57-40eb-a89e-0f3662792bdf,themself.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
 215ad85b-decb-4bcc-94fc-39d1893220fe,yur.bayern,premium,58.9,,high,low,3,name.com,,,
@@ -958,7 +938,6 @@ bcbd42ed-85ab-4635-8e88-b9f38210b988,water.bayern,available,34.99,34.99,high,med
 3fc6bc1a-9142-430f-b789-1ec7ed02c512,highway.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 c86844e4-eb82-4754-a4ea-616cf2d7eb20,impact.bayern,available,34.99,34.99,high,high,6,namesilo,,,
 c416a8de-106d-4d8b-8a4e-ce580f46fcb3,choc.bayern,available,34.99,34.99,high,low,4,namesilo,,,
-a46b1379-402f-4253-a580-7861a5a180d3,present.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 0a8d020d-c58c-45fb-9c52-9be271695f64,eighth.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 003cb739-429e-4b32-8083-0c59e38dcca6,dormant.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 9322d5a5-b577-404a-b3c1-2e3bd14e4e77,his.bayern,premium,58.94,,high,low,3,name.com,,,
@@ -979,7 +958,6 @@ d8f2524a-2169-4175-aebc-28d44dd77e7d,grip.bayern,available,34.99,34.99,high,low,
 210b18c5-7190-43cc-9260-bf9ff0f6fc21,animals.bayern,available,47.99,,high,low,7,name.com,,,
 63759523-3609-4488-a6a1-8ed2d8fe3e7f,evacuate.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 66669899-c811-49c3-82f9-f92ef831b927,anabatic.bayern,available,34.99,34.99,medium,low,8,namesilo,,,
-40713b66-2c99-4421-99ee-fab00eed295a,hybrid.bayern,available,34.99,34.99,high,low,6,namesilo,,,
 838a883c-5b0c-4045-8c9c-decae2071ecf,rhythmic.bayern,available,47.99,,high,low,8,name.com,,,
 7b57a35d-7310-462f-99bd-d4dba2328890,tormented.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
 e3c25098-386c-48ca-b0b3-4b11f1de8323,jazz.bayern,available,34.99,34.99,high,low,4,namesilo,,,
@@ -991,11 +969,33 @@ aeeb935f-97c5-4f3a-89cf-2d5691f2e2ad,certain.bayern,available,34.99,34.99,high,l
 7e8d7d97-e689-49b6-94ac-011f6c687b0a,informative.bayern,available,47.99,,high,low,11,name.com,,,
 bac5bef5-7e04-4af8-af9d-116aa21f55d3,abridged.bayern,available,34.99,34.99,high,low,8,namesilo,,,
 e26cd430-478f-4c1e-aede-1dd2068d2e55,pamela.bayern,available,34.99,34.99,high,low,6,namesilo,,,
-6a6ef727-01a3-49dd-8f47-be641484d174,impossible.bayern,available,34.99,34.99,high,low,10,namesilo,,,
 de710034-d8ff-4965-89c4-ecc0d46107a5,undeveloped.bayern,available,47.99,,high,low,11,name.com,,,
 b7853ae2-317a-48fb-8f4f-2ed49d693bc5,andrew.bayern,available,47.99,,high,medium,6,name.com,,,
-0398a8a8-1206-4021-bd26-15e3255e05c3,ache.bayern,available,34.99,34.99,high,low,4,namesilo,,,
+0398a8a8-1206-4021-bd26-15e3255e05c3,ache.bayern,available,34.99,34.99,medium,low,4,namesilo,,,
 1b86ee45-dd89-4a00-9333-a5eb9955cca4,today.bayern,available,34.99,34.99,high,low,5,namesilo,,,
 0bb4d4a0-5fbc-49db-906a-b1278b3828e1,advertent.bayern,available,34.99,34.99,medium,low,9,namesilo,,,
 5d612f3e-e825-4e52-90b7-dac0d1ff9b16,remover.bayern,available,34.99,34.99,high,low,7,namesilo,,,
 2708d18e-7018-4e7b-a7f4-c85fafc03777,sensory.bayern,available,34.99,34.99,high,low,7,namesilo,,,
+c0a6fef1-8f2e-4a42-ad67-3f6e356bd7b3,scheme.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+47f4c822-b5b5-4109-b57e-cc7238844f5d,alaska.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+7845de27-3a5f-4b96-b597-7417745fcaab,rested.bayern,available,47.99,,high,low,6,name.com,,,
+cb1984a9-f6b4-443d-950f-69b7c4f01c46,eolian.bayern,available,34.99,34.99,medium,low,6,namesilo,,,
+9c7bb483-6fb2-4809-847f-ceee351d040c,embracing.bayern,available,34.99,34.99,high,low,9,namesilo,,,
+bf6360a6-d053-46f1-9b6a-f552da5f97d3,purchase.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+5ccf07e7-7192-47ff-a8a4-b4c5682f85d0,supplier.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+8216a58b-b0fb-4335-8f39-89d36b26f834,youth.bayern,available,34.99,34.99,high,low,5,namesilo,,,
+0f6a0408-18a3-48ab-8e3c-e4f6469796d2,linear.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+c4be6557-4144-4672-be41-452acc4c5d3c,lightly.bayern,available,34.99,34.99,high,low,7,namesilo,,,25/09/2026 13:36
+e8171f2a-8311-45dc-8cd5-2b7ea0d51f92,ignore.bayern,available,34.99,34.99,high,low,6,namesilo,,,
+dd4cd60b-05aa-4426-a969-6c2965689be4,aberrant.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+b708e9ae-ffae-40a3-8098-f08a8449c3fa,november.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+3ef6cfab-80b3-4db9-aee1-e5183cb106a5,distance.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+a27f58f8-ee12-4340-a9ba-beb761072ae2,banking.bayern,premium,292.63,,high,low,7,name.com,,,
+e336ebef-3998-4348-8a63-43436e0977ae,quickness.bayern,available,34.99,34.99,high,low,9,namesilo,,,
+e1023b00-8975-42ab-92fc-71f76a4b455c,observer.bayern,available,34.99,34.99,high,low,8,namesilo,,,
+7bc8e8c9-0dc2-43bb-ad9e-5fe31c7a1856,camouflage.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+682d233c-86a6-4f95-8bc2-354bdf8ad22b,acquitted.bayern,available,47.99,50.99,medium,low,9,name.com,,,
+77c5d03b-7d35-454e-bdcd-26cc02abaedb,katy.bayern,available,47.99,,high,low,4,name.com,,,
+d124aedc-dede-4ad0-b874-6ffb968c1131,analytical.bayern,available,34.99,34.99,high,low,10,namesilo,,,
+eab127a9-af4f-4523-beda-347d6a7d8a5c,ashen.bayern,available,34.99,34.99,medium,low,5,namesilo,,,07/08/2026 02:09
+4cebe2cf-3eaf-4357-b9d5-e8a73e6a2b24,grains.bayern,available,47.99,,high,low,6,name.com,,,
