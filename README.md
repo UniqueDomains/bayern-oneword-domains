@@ -1,10 +1,10 @@
-# Available .BAYERN One-Word Domains (32,553)
+# Available .BAYERN One-Word Domains (34,726)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C553%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C726%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bayern one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,553 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,726 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,553 domains · **Median ask:** $36.64 · **High-demand under $2,500:** 78
+**Public extract:** 1,000 rows · **Live catalog:** 34,726 domains · **Median ask:** $36.59 · **High-demand under $2,500:** 85
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/bayern`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | aden.bayern | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo  |
-| csp.bayern  | premium   | $49.89    | $34.26        | high           | low    | 3      | dynadot   |
+| aic.bayern  | premium   | $51.91    | $32.64        | high           | low    | 3      | porkbun   |
 | afrl.bayern | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo  |
-| diy.bayern  | premium   | $49.84    | $34.22        | high           | low    | 3      | dynadot   |
-| alep.bayern | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo  |
-| edt.bayern  | premium   | $49.84    | $34.22        | high           | low    | 3      | dynadot   |
+| bil.bayern  | premium   | $49.50    | $33.98        | high           | low    | 3      | dynadot   |
+| ajay.bayern | available | $34.99    | $34.99        | high           | low    | 4      | namesilo  |
+| cfb.bayern  | premium   | $51.91    | $32.64        | high           | low    | 3      | porkbun   |
+| amit.bayern | available | $33.98    | $33.98        | high           | low    | 4      | dynadot   |
+| csp.bayern  | premium   | $49.89    | $34.26        | high           | low    | 3      | dynadot   |
 | apus.bayern | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo  |
-| fai.bayern  | premium   | $51.91    | $32.64        | high           | low    | 3      | porkbun   |
+| edt.bayern  | premium   | $49.84    | $34.22        | high           | low    | 3      | dynadot   |
 | arak.bayern | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo  |
-| flu.bayern  | premium   | $50.03    | $34.35        | high           | low    | 3      | dynadot   |
+| fai.bayern  | premium   | $51.91    | $32.64        | high           | low    | 3      | porkbun   |
 | area.bayern | available | $34.99    | $34.99        | high           | low    | 4      | namesilo  |
-| ich.bayern  | premium   | $51.91    | $32.64        | high           | low    | 3      | porkbun   |
+| flu.bayern  | premium   | $50.03    | $34.35        | high           | low    | 3      | dynadot   |
 | arms.bayern | available | $34.99    | $34.99        | high           | low    | 4      | namesilo  |
-| ied.bayern  | premium   | $49.84    | $34.22        | medium         | low    | 3      | dynadot   |
+| ich.bayern  | premium   | $51.91    | $32.64        | high           | low    | 3      | porkbun   |
 | asks.bayern | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo  |
-| jig.bayern  | premium   | $51.91    | $32.64        | high           | low    | 3      | porkbun   |
+| ied.bayern  | premium   | $49.84    | $34.22        | medium         | low    | 3      | dynadot   |
 | bane.bayern | available | $34.99    | $34.99        | medium         | low    | 4      | namesilo  |
-| jpl.bayern  | premium   | $49.84    | $34.22        | medium         | low    | 3      | dynadot   |
-| both.bayern | available | $34.99    | $34.99        | high           | low    | 4      | namesilo  |
-| ker.bayern  | premium   | $49.89    | $34.26        | medium         | low    | 3      | dynadot   |
+| jig.bayern  | premium   | $51.91    | $32.64        | high           | low    | 3      | porkbun   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,553 live domains                        |
+| 1,000-row public sample | 34,726 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 78 high-demand names under $2,500          |
+| Basic exported fields   | 85 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAYERN One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
